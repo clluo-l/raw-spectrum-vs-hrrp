@@ -1,0 +1,93 @@
+{
+  "status": "ok",
+  "protocol": "tgrs_nested_nonpolar_v2",
+  "sample_count": 1200,
+  "rect_input_key": "hrrp_rect91_complex_4ch",
+  "hann_input_key": "hrrp_hann91_complex_4ch",
+  "shape_both": [
+    4,
+    91
+  ],
+  "normalization_both": "full_sample_l2",
+  "dataset_npz_content": {
+    "algorithm": "tgrs_npz_path_filehash_v1",
+    "file_count": 1680,
+    "sha256": "263d5f6d881a02f6ae2144a999c27e08fba55d168ef28a017c5c867a11f976a6"
+  },
+  "only_scientific_factor": "spectral_window_rect_to_hann",
+  "padding": "none; nfft equals input length 91",
+  "crop": "none; full 91 bins retained",
+  "range_alignment_both": "none",
+  "phase_reference_both": "none",
+  "hann_definition": {
+    "implementation": "numpy.hanning(91).astype(float32)",
+    "nonzero_coefficients": 89,
+    "first": 0.0,
+    "last": 0.0
+  },
+  "numeric_gate": {
+    "operation_factor_formula": "k = 8*ceil(log2(N)) + 8",
+    "operation_factor_k": 64,
+    "complex64_gamma_k": 7.629452739355006e-06,
+    "max_actual_vs_independent_reference_abs_error": 0.0,
+    "max_rect_recovered_spectrum_abs_error": 1.0662403155947686e-06,
+    "max_hann_recovered_windowed_spectrum_abs_error": 9.830249609876773e-07
+  },
+  "normalized_rect_hann_distance": {
+    "minimum": 0.4099152982234955,
+    "maximum": 0.6990565657615662
+  },
+  "one_batch_forward_count": 8,
+  "model_identifier_both": "freq_mlp",
+  "model_initialization": [
+    {
+      "seed": 70,
+      "parameter_count": 3022993,
+      "rect_initial_state_sha256": "d77fbd93c0ad03b99aea475ef168fd6638da85f82742cd0ddfbd41fd4833de99",
+      "hann_initial_state_sha256": "d77fbd93c0ad03b99aea475ef168fd6638da85f82742cd0ddfbd41fd4833de99",
+      "bitwise_identical": true
+    },
+    {
+      "seed": 71,
+      "parameter_count": 3022993,
+      "rect_initial_state_sha256": "ce374a27d1e47210bf0434b79f4ad8d6bbbec93670a0df4c2395efadb560edb8",
+      "hann_initial_state_sha256": "ce374a27d1e47210bf0434b79f4ad8d6bbbec93670a0df4c2395efadb560edb8",
+      "bitwise_identical": true
+    },
+    {
+      "seed": 72,
+      "parameter_count": 3022993,
+      "rect_initial_state_sha256": "5996e9408df1661780008744282b90ad52f13eba51c66638976e4a6307a7b8b3",
+      "hann_initial_state_sha256": "5996e9408df1661780008744282b90ad52f13eba51c66638976e4a6307a7b8b3",
+      "bitwise_identical": true
+    },
+    {
+      "seed": 73,
+      "parameter_count": 3022993,
+      "rect_initial_state_sha256": "82579987e298b460e3172c2c0128e5a2340cc7c928fb8259f2634a790153123f",
+      "hann_initial_state_sha256": "82579987e298b460e3172c2c0128e5a2340cc7c928fb8259f2634a790153123f",
+      "bitwise_identical": true
+    },
+    {
+      "seed": 74,
+      "parameter_count": 3022993,
+      "rect_initial_state_sha256": "ce2e87576d35c79f0493036077119dc04814928e9cf4d95d7de2d7f60c6f62f4",
+      "hann_initial_state_sha256": "ce2e87576d35c79f0493036077119dc04814928e9cf4d95d7de2d7f60c6f62f4",
+      "bitwise_identical": true
+    },
+    {
+      "seed": 75,
+      "parameter_count": 3022993,
+      "rect_initial_state_sha256": "cae8fb0e5897fa36896facbbb1cf6072d424c9ceb60eb27727b8e7c79784f3e3",
+      "hann_initial_state_sha256": "cae8fb0e5897fa36896facbbb1cf6072d424c9ceb60eb27727b8e7c79784f3e3",
+      "bitwise_identical": true
+    },
+    {
+      "seed": 76,
+      "parameter_count": 3022993,
+      "rect_initial_state_sha256": "b5aa238f07012997ec187c52c638af34c49ee727dabe3893c492cf95e70f9dc2",
+      "hann_initial_state_sha256": "b5aa238f07012997ec187c52c638af34c49ee727dabe3893c492cf95e70f9dc2",
+      "bitwise_identical": true
+    }
+  ]
+}

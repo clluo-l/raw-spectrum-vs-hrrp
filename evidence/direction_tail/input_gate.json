@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "failures": [],
+  "strict_current_npz_digest": {
+    "algorithm": "tgrs_npz_path_filehash_v1",
+    "file_count": 1680,
+    "sha256": "263d5f6d881a02f6ae2144a999c27e08fba55d168ef28a017c5c867a11f976a6"
+  },
+  "hann_current_npz_digest": {
+    "algorithm": "tgrs_npz_path_filehash_v1",
+    "file_count": 1680,
+    "sha256": "263d5f6d881a02f6ae2144a999c27e08fba55d168ef28a017c5c867a11f976a6"
+  },
+  "baseline_current_nonpolar_digest": "3b7a0f0fadcabb9d36be8e38fac710f417596d27a2c61c4e52cc4fe7d3c818fb",
+  "split_manifest_sha256": "5004ad8228eb3a9724081e9c7789b28cbc4a57349549b36bd93a5f825e83e550"
+}

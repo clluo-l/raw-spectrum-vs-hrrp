@@ -1,0 +1,90 @@
+{
+  "files": [
+    {
+      "archive_path": "evidence/fig3_predictions/freq_mlp_id_seed70.csv",
+      "bytes": 24133,
+      "rows": 160,
+      "sha256": "d8dfc806973539335b0d84159e8361a0997764d00ab760caab887ca4dde8b352"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/freq_mlp_id_seed71.csv",
+      "bytes": 23931,
+      "rows": 160,
+      "sha256": "81af5d2e3c1a7551e0b81a77a33bf5c3b8db5856d9b662981b20cc357e7e4a7d"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/freq_mlp_id_seed72.csv",
+      "bytes": 23659,
+      "rows": 160,
+      "sha256": "61d4b89b0ac62c515d2cd0c2756da2d56b58554aada3e66f7b61e0cc58871e14"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/freq_mlp_id_seed73.csv",
+      "bytes": 24170,
+      "rows": 160,
+      "sha256": "abe8ef58ff073097d54c6768ced9cd6899d2ac77e299c197290953caa981f280"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/freq_mlp_id_seed74.csv",
+      "bytes": 23925,
+      "rows": 160,
+      "sha256": "49d13495fe450a8058e35861eedcec10264bfcb499a60bc9d7a33df2483c7f92"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/freq_mlp_id_seed75.csv",
+      "bytes": 23899,
+      "rows": 160,
+      "sha256": "1c8984fc8c6df9b7c54bb910d26d3e162472ffa996220fab74ab0f72ef646491"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/freq_mlp_id_seed76.csv",
+      "bytes": 24153,
+      "rows": 160,
+      "sha256": "a3a5e080904decb6791b518c5f1f2ff30a250005ef5dcaa2ea468c8c5aca962b"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/hrrp_mlp_id_seed70.csv",
+      "bytes": 24407,
+      "rows": 160,
+      "sha256": "75303fee72f0ca5877e05676cdfa2d4e66290ca16b3f2c435cc744d45cf16fd5"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/hrrp_mlp_id_seed71.csv",
+      "bytes": 24083,
+      "rows": 160,
+      "sha256": "3615226ecc6cb7e6aec8c4e000be85065ae25055274e3772df38aeede631c79a"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/hrrp_mlp_id_seed72.csv",
+      "bytes": 24349,
+      "rows": 160,
+      "sha256": "18c81470cc58819938cbe175cfddf03a7c10e2da931bd5ad453eab9745f3dc7e"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/hrrp_mlp_id_seed73.csv",
+      "bytes": 24101,
+      "rows": 160,
+      "sha256": "19217fc2e1fc75bb11b4ad5c582a0332ae81f33314fb0e1a0521ae3f9d7e56fb"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/hrrp_mlp_id_seed74.csv",
+      "bytes": 24232,
+      "rows": 160,
+      "sha256": "3e7c73a371d7cdb358b8ed8c37b2920d340ea5569c826c4e74efe4fd60bfa0a0"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/hrrp_mlp_id_seed75.csv",
+      "bytes": 24240,
+      "rows": 160,
+      "sha256": "caf23ca7edccd94f2044ae2a136cae77f7fc578b3118f8d0168bd69792a78d4a"
+    },
+    {
+      "archive_path": "evidence/fig3_predictions/hrrp_mlp_id_seed76.csv",
+      "bytes": 24473,
+      "rows": 160,
+      "sha256": "c1caf41cbbe0ca110234cb8e2a290d0192f3900d19857bad70b5ed92412606de"
+    }
+  ],
+  "schema": "tgrs-current-evidence-fig3-input-manifest-v1",
+  "scope": "seen-object tgrs811 qualitative diagnostic only"
+}

@@ -1,0 +1,134 @@
+{
+  "status": "ok",
+  "selection_rule": "one fixed outcome-blind nonpolar direction (theta=90 deg, phi=0 deg) for every object",
+  "dataset_manifest_sha256": "b4e33b6d333e853b7fa6ba5b18ac80bd30c932a21c475b6232695e4354f1f37d",
+  "official_index_sha256": "ecf61b2be5f783eaedd218952878fde1ba45ac47313ca7b091d78c9f9d5d437c",
+  "object_count": 20,
+  "frequency_samples_per_object": 91,
+  "csv_row_count": 1820,
+  "csv_path": "tgrs_complex_response_subset.csv",
+  "csv_sha256": "7d82c9aff8a9d1aa2ee9ebd975ba3136ee424df809c2daf4cff0d67a4ee5afe2",
+  "source_records": [
+    {
+      "object_code": "b7c1",
+      "sample_id": "b7c1_pec_ti090_pi000",
+      "source_relative_path": "samples/b7c1/pec/b7c1_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "66f3b2677ed42ce64d91bb3d9e8616b0d7324b67135f035d637ef77d08533aa5"
+    },
+    {
+      "object_code": "b7fd",
+      "sample_id": "b7fd_pec_ti090_pi000",
+      "source_relative_path": "samples/b7fd/pec/b7fd_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "f1a2e7bf1a2c1c82e12c61353a81594439e170ec3df9f470471fb4e1c9d62a74"
+    },
+    {
+      "object_code": "b80b",
+      "sample_id": "b80b_pec_ti090_pi000",
+      "source_relative_path": "samples/b80b/pec/b80b_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "859596f0fea15332c208d47249da2008b998053adc7cea8b2c49a9781c464b39"
+    },
+    {
+      "object_code": "b812",
+      "sample_id": "b812_pec_ti090_pi000",
+      "source_relative_path": "samples/b812/pec/b812_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "bb33f6f637ec64384440315c2b277717fcc0cde5c066228d278093225e3136ea"
+    },
+    {
+      "object_code": "b827",
+      "sample_id": "b827_pec_ti090_pi000",
+      "source_relative_path": "samples/b827/pec/b827_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "f867a180ad6904c537cb62d86567838107da4198d286c92254f72687ca28a4a3"
+    },
+    {
+      "object_code": "b871",
+      "sample_id": "b871_pec_ti090_pi000",
+      "source_relative_path": "samples/b871/pec/b871_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "9ac723fab74da2661917c06f57fc5bfc87913958dd781d5b55970c648f498850"
+    },
+    {
+      "object_code": "b8ed",
+      "sample_id": "b8ed_pec_ti090_pi000",
+      "source_relative_path": "samples/b8ed/pec/b8ed_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "11b342ec39d1eaa564d8499afed8e68c67f501dc4baa9f70ba946b53df2d9c4a"
+    },
+    {
+      "object_code": "b905",
+      "sample_id": "b905_pec_ti090_pi000",
+      "source_relative_path": "samples/b905/pec/b905_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "7d9e4f246b5e4dfd04ad24cde9e018276f0882bf53a4d94fa1b6bc0ad8850552"
+    },
+    {
+      "object_code": "b943",
+      "sample_id": "b943_pec_ti090_pi000",
+      "source_relative_path": "samples/b943/pec/b943_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "c38eaf06d6077e135e1823fc371a6c94f0330a8f96c977250d61cd7d69d5dd74"
+    },
+    {
+      "object_code": "b974",
+      "sample_id": "b974_pec_ti090_pi000",
+      "source_relative_path": "samples/b974/pec/b974_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "f488266ef387b4f34ade83534a4ff835d5739e24b025dfc95b9842cc2eee9f33"
+    },
+    {
+      "object_code": "b979",
+      "sample_id": "b979_pec_ti090_pi000",
+      "source_relative_path": "samples/b979/pec/b979_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "a077cc377678d6a23130b6fcd4a4e36d203b9d3f40ca8f95c309c5feccf6e77d"
+    },
+    {
+      "object_code": "b97b",
+      "sample_id": "b97b_pec_ti090_pi000",
+      "source_relative_path": "samples/b97b/pec/b97b_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "c95728656b74bbe2f34568664db4e3ed9929edaeac393a2d642ab821237e3940"
+    },
+    {
+      "object_code": "b9e6",
+      "sample_id": "b9e6_pec_ti090_pi000",
+      "source_relative_path": "samples/b9e6/pec/b9e6_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "2a13b4bdab49c17174d2ad2979fe784d7ce909888fec2489a3c5746b77928df5"
+    },
+    {
+      "object_code": "ba0f",
+      "sample_id": "ba0f_pec_ti090_pi000",
+      "source_relative_path": "samples/ba0f/pec/ba0f_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "ce9404ca08a60d45326ba3fb685a6cc38322eacb90f0568199019ee107d0ea23"
+    },
+    {
+      "object_code": "baa9",
+      "sample_id": "baa9_pec_ti090_pi000",
+      "source_relative_path": "samples/baa9/pec/baa9_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "d6f1f69ecf5a3f110423f83f7a62cb77479d4341d651f7b6433320410210e807"
+    },
+    {
+      "object_code": "bb26",
+      "sample_id": "bb26_pec_ti090_pi000",
+      "source_relative_path": "samples/bb26/pec/bb26_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "a4e362c0a2141e862f779138fa1b548f6d1e7a02c82b6a866884e9ddf6d2be4c"
+    },
+    {
+      "object_code": "bb7c",
+      "sample_id": "bb7c_pec_ti090_pi000",
+      "source_relative_path": "samples/bb7c/pec/bb7c_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "e09d0f75e3e12bfac0d79281f0b9ba6430ba7d8a6955b81eb833b463b1b2c8a5"
+    },
+    {
+      "object_code": "bb7d",
+      "sample_id": "bb7d_pec_ti090_pi000",
+      "source_relative_path": "samples/bb7d/pec/bb7d_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "814c930964fb591f26eea9a769692cbbae130ce2a4aad8baf01da26ec875e86e"
+    },
+    {
+      "object_code": "bbc6",
+      "sample_id": "bbc6_pec_ti090_pi000",
+      "source_relative_path": "samples/bbc6/pec/bbc6_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "01f2ceee6dadf5eff9274cfeb7ad2cd93a05be417eadfabd2303a8bc021ae9b6"
+    },
+    {
+      "object_code": "bc2c",
+      "sample_id": "bc2c_pec_ti090_pi000",
+      "source_relative_path": "samples/bc2c/pec/bc2c_pec_ti090_pi000_hrrp.npz",
+      "source_npz_sha256": "0cd72e8527af22ed63ca80d55f4a86add699bb3c1b6dd1b9ff4342d7c31126bb"
+    }
+  ],
+  "scope": "review subset only; not an independent validation domain"
+}

@@ -1,0 +1,137 @@
+{
+  "outer1": {
+    "phase_invariant": {
+      "selected_k": 7,
+      "dev_mean_gce_by_k": {
+        "1": 57.82871634446258,
+        "3": 43.52178241627561,
+        "5": 39.15147122378012,
+        "7": 36.37932384002943,
+        "10": 47.89147392603628
+      }
+    },
+    "range_phase_invariant": {
+      "selected_k": 7,
+      "dev_mean_gce_by_k": {
+        "1": 58.39977571961762,
+        "3": 43.52178241627561,
+        "5": 39.20903780236115,
+        "7": 37.83993345890306,
+        "10": 47.150816726735115
+      }
+    },
+    "operational_controls": {
+      "raw_dev_mean_gce_deg": 30.847545327242212,
+      "global_phase_invariant_dev_mean_gce_deg": 30.752450730468063,
+      "range_phase_invariant_dev_mean_gce_deg": 33.2557364351356
+    }
+  },
+  "outer2": {
+    "phase_invariant": {
+      "selected_k": 7,
+      "dev_mean_gce_by_k": {
+        "1": 56.87433246829044,
+        "3": 43.63833474166406,
+        "5": 40.66120984594357,
+        "7": 40.18790158965721,
+        "10": 42.94785881040711
+      }
+    },
+    "range_phase_invariant": {
+      "selected_k": 5,
+      "dev_mean_gce_by_k": {
+        "1": 57.44539184344547,
+        "3": 43.63833474166406,
+        "5": 40.66120984594357,
+        "7": 41.09638291374056,
+        "10": 41.77253751989869
+      }
+    },
+    "operational_controls": {
+      "raw_dev_mean_gce_deg": 33.885747313907835,
+      "global_phase_invariant_dev_mean_gce_deg": 34.38273269140247,
+      "range_phase_invariant_dev_mean_gce_deg": 36.441369915209755
+    }
+  },
+  "outer3": {
+    "phase_invariant": {
+      "selected_k": 7,
+      "dev_mean_gce_by_k": {
+        "1": 61.71950095914365,
+        "3": 47.92868270930626,
+        "5": 41.537251066221096,
+        "7": 41.232994476640535,
+        "10": 48.11811336582966
+      }
+    },
+    "range_phase_invariant": {
+      "selected_k": 5,
+      "dev_mean_gce_by_k": {
+        "1": 61.71950095914365,
+        "3": 47.92868270930626,
+        "5": 42.329511224546735,
+        "7": 42.69360409551417,
+        "10": 48.577456166528485
+      }
+    },
+    "operational_controls": {
+      "raw_dev_mean_gce_deg": 36.44409393022617,
+      "global_phase_invariant_dev_mean_gce_deg": 37.65532028695435,
+      "range_phase_invariant_dev_mean_gce_deg": 38.49012605435767
+    }
+  },
+  "outer4": {
+    "phase_invariant": {
+      "selected_k": 3,
+      "dev_mean_gce_by_k": {
+        "1": 40.501015144655646,
+        "3": 33.68491715249236,
+        "5": 35.79067010739201,
+        "7": 35.296423062291666,
+        "10": 36.39913297689871
+      }
+    },
+    "range_phase_invariant": {
+      "selected_k": 3,
+      "dev_mean_gce_by_k": {
+        "1": 41.07207451981069,
+        "3": 33.68491715249236,
+        "5": 35.79067010739201,
+        "7": 35.296423062291666,
+        "10": 36.51339911095947
+      }
+    },
+    "operational_controls": {
+      "raw_dev_mean_gce_deg": 17.657367405558347,
+      "global_phase_invariant_dev_mean_gce_deg": 19.77663397870653,
+      "range_phase_invariant_dev_mean_gce_deg": 20.82405480899621
+    }
+  },
+  "id": {
+    "phase_invariant": {
+      "selected_k": 10,
+      "dev_mean_gce_by_k": {
+        "1": 54.1257843677171,
+        "3": 42.98991828545,
+        "5": 41.23433244571323,
+        "7": 42.01466734669643,
+        "10": 38.70133298996315
+      }
+    },
+    "range_phase_invariant": {
+      "selected_k": 10,
+      "dev_mean_gce_by_k": {
+        "1": 54.554078899083386,
+        "3": 42.98991828545,
+        "5": 41.50682209582373,
+        "7": 42.28193211866623,
+        "10": 38.75970024457081
+      }
+    },
+    "operational_controls": {
+      "raw_dev_mean_gce_deg": 34.37431415274803,
+      "global_phase_invariant_dev_mean_gce_deg": 32.28307792007755,
+      "range_phase_invariant_dev_mean_gce_deg": 33.06978468290455
+    }
+  }
+}

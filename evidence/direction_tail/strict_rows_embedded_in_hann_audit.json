@@ -1,0 +1,8 @@
+{
+  "status": "ok",
+  "strict_rows": 19600,
+  "hann_embedded_strict_rows": 19600,
+  "key_sets_equal": true,
+  "value_mismatches": 0,
+  "first_mismatch": null
+}

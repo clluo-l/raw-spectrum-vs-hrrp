@@ -1,0 +1,160 @@
+{
+  "status": "ok",
+  "failures": [],
+  "path": "output\\20260828_tgrs_nested_existing_baselines_currentdata",
+  "file_sha256": {
+    "samples.csv": "75c7b7a460890096d2a372a4931af872335c80542958cdf155d612759f0490f7",
+    "id_samples.csv": "9e7af42200aff4d03c0109d54385525cccfb45fb05fba469b731bc43d771db21",
+    "summary.json": "092ec2714c9bc276c1d93ba9b2a0b548cdb51807f1e18f73349e06befafdaacd"
+  },
+  "held_rows_per_method": {
+    "Frequency complex-correlation 1-NN": 1200,
+    "Frequency dev-selected ridge direction": 1200,
+    "Frequency magnitude-only 1-NN": 1200,
+    "Frequency operational 1-NN": 1200,
+    "Frequency operational centroid": 1200,
+    "Frequency operational dev-selected kNN": 1200,
+    "HRRP complex-zscore 1-NN": 1200,
+    "HRRP component-magnitude 1-NN": 1200,
+    "HRRP operational 1-NN": 1200,
+    "HRRP vector-magnitude 1-NN": 1200,
+    "HRRP weighted-channel-RMS 1-NN": 1200
+  },
+  "id_rows_per_method": {
+    "Frequency complex-correlation 1-NN": 200,
+    "Frequency magnitude-only 1-NN": 200,
+    "Frequency operational 1-NN": 200,
+    "HRRP complex-zscore 1-NN": 200,
+    "HRRP component-magnitude 1-NN": 200,
+    "HRRP operational 1-NN": 200,
+    "HRRP vector-magnitude 1-NN": 200,
+    "HRRP weighted-channel-RMS 1-NN": 200
+  },
+  "query_key_audit": {
+    "held": {
+      "Frequency complex-correlation 1-NN": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      },
+      "Frequency dev-selected ridge direction": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      },
+      "Frequency magnitude-only 1-NN": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      },
+      "Frequency operational 1-NN": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      },
+      "Frequency operational centroid": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      },
+      "Frequency operational dev-selected kNN": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      },
+      "HRRP complex-zscore 1-NN": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      },
+      "HRRP component-magnitude 1-NN": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      },
+      "HRRP operational 1-NN": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      },
+      "HRRP vector-magnitude 1-NN": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      },
+      "HRRP weighted-channel-RMS 1-NN": {
+        "rows": 1200,
+        "unique_query_keys": 1200,
+        "matches_expected_query_keys": true
+      }
+    },
+    "id": {
+      "Frequency complex-correlation 1-NN": {
+        "rows": 200,
+        "unique_query_keys": 200,
+        "matches_expected_query_keys": true
+      },
+      "Frequency magnitude-only 1-NN": {
+        "rows": 200,
+        "unique_query_keys": 200,
+        "matches_expected_query_keys": true
+      },
+      "Frequency operational 1-NN": {
+        "rows": 200,
+        "unique_query_keys": 200,
+        "matches_expected_query_keys": true
+      },
+      "HRRP complex-zscore 1-NN": {
+        "rows": 200,
+        "unique_query_keys": 200,
+        "matches_expected_query_keys": true
+      },
+      "HRRP component-magnitude 1-NN": {
+        "rows": 200,
+        "unique_query_keys": 200,
+        "matches_expected_query_keys": true
+      },
+      "HRRP operational 1-NN": {
+        "rows": 200,
+        "unique_query_keys": 200,
+        "matches_expected_query_keys": true
+      },
+      "HRRP vector-magnitude 1-NN": {
+        "rows": 200,
+        "unique_query_keys": 200,
+        "matches_expected_query_keys": true
+      },
+      "HRRP weighted-channel-RMS 1-NN": {
+        "rows": 200,
+        "unique_query_keys": 200,
+        "matches_expected_query_keys": true
+      }
+    }
+  },
+  "reproductions": {
+    "held": {
+      "complex_correlation": {
+        "compared_rows": 1200,
+        "prediction_mismatches": 0,
+        "max_abs_error_difference_deg": 0.0
+      },
+      "operational": {
+        "compared_rows": 1200,
+        "prediction_mismatches": 0,
+        "max_abs_error_difference_deg": 0.0
+      }
+    },
+    "id": {
+      "complex_correlation": {
+        "compared_rows": 200,
+        "prediction_mismatches": 0,
+        "max_abs_error_difference_deg": 0.0
+      },
+      "operational": {
+        "compared_rows": 200,
+        "prediction_mismatches": 0,
+        "max_abs_error_difference_deg": 0.0
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "reference": "Frequency operational 1-NN",
+  "operational_6ch_1nn": {
+    "missing_aligned_rows": 0,
+    "object_count": 20,
+    "mean_object_delta_gce_deg_new_minus_reference": 0.0,
+    "object_bootstrap_ci95_delta_gce_deg": [
+      0.0,
+      0.0
+    ],
+    "objects_with_lower_mean_gce": 0
+  },
+  "operational_6ch_global_phase_invariant_1nn": {
+    "missing_aligned_rows": 0,
+    "object_count": 20,
+    "mean_object_delta_gce_deg_new_minus_reference": 1.1142492740181145,
+    "object_bootstrap_ci95_delta_gce_deg": [
+      0.12273420591586882,
+      2.175790998580237
+    ],
+    "objects_with_lower_mean_gce": 6
+  },
+  "operational_6ch_range_phase_invariant_1nn": {
+    "missing_aligned_rows": 0,
+    "object_count": 20,
+    "mean_object_delta_gce_deg_new_minus_reference": 3.6920674319550266,
+    "object_bootstrap_ci95_delta_gce_deg": [
+      1.9819190426575666,
+      5.51361494812207
+    ],
+    "objects_with_lower_mean_gce": 3
+  },
+  "real_coherent_1nn": {
+    "missing_aligned_rows": 0,
+    "object_count": 20,
+    "mean_object_delta_gce_deg_new_minus_reference": 7.172313661840579,
+    "object_bootstrap_ci95_delta_gce_deg": [
+      4.686463394584803,
+      9.859605887625559
+    ],
+    "objects_with_lower_mean_gce": 2
+  },
+  "global_phase_invariant_1nn": {
+    "missing_aligned_rows": 0,
+    "object_count": 20,
+    "mean_object_delta_gce_deg_new_minus_reference": 6.320096183031809,
+    "object_bootstrap_ci95_delta_gce_deg": [
+      3.737675909445569,
+      9.112929792564465
+    ],
+    "objects_with_lower_mean_gce": 2
+  },
+  "global_phase_invariant_dev_selected_topk": {
+    "missing_aligned_rows": 0,
+    "object_count": 20,
+    "mean_object_delta_gce_deg_new_minus_reference": 8.639885185909538,
+    "object_bootstrap_ci95_delta_gce_deg": [
+      5.130004068320024,
+      12.31416931124177
+    ],
+    "objects_with_lower_mean_gce": 4
+  },
+  "range_phase_invariant_1nn": {
+    "missing_aligned_rows": 0,
+    "object_count": 20,
+    "mean_object_delta_gce_deg_new_minus_reference": 6.25583287618605,
+    "object_bootstrap_ci95_delta_gce_deg": [
+      3.679607310044532,
+      9.051778030197584
+    ],
+    "objects_with_lower_mean_gce": 2
+  },
+  "range_phase_invariant_dev_selected_topk": {
+    "missing_aligned_rows": 0,
+    "object_count": 20,
+    "mean_object_delta_gce_deg_new_minus_reference": 8.684484233301603,
+    "object_bootstrap_ci95_delta_gce_deg": [
+      5.509318595492577,
+      12.050121664371002
+    ],
+    "objects_with_lower_mean_gce": 2
+  }
+}

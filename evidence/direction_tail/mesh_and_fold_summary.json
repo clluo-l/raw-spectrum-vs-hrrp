@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "object_count": 20,
+  "current_full_file_hashes_unique": true,
+  "recorded_sampled_hashes_unique": true,
+  "recorded_duplicate_file_hash_count": 0,
+  "recorded_duplicate_sampled_mesh_hash_count": 0,
+  "pairwise_descriptor_distance": {
+    "min": 1.194556745915818,
+    "median": 5.103496167070667,
+    "max": 10.442635392659774
+  },
+  "held_to_nearest_train_descriptor_distance": {
+    "min": 1.194556745915818,
+    "median": 2.121520464347325,
+    "max": 6.0066189925861675
+  },
+  "fold_generator_sha256": "faebe470fc4a4dc99494bdf923911f99fb99ded96ab34e503142f940f78c231b",
+  "fold_rule_proven": "OOD_FOLDS is a literal hard-coded mapping; each object is held exactly once; train/test object overlap is zero.",
+  "fold_selection_rationale": "unknown: no random seed, randomization call, semantic-family label, or descriptor-stratification rule is present in the generator.",
+  "near_duplicate_scope": "Exact current STL byte duplicates are excluded. The available 14-D extent/centroid/area descriptor is only coarse evidence; without a registered surface-distance threshold or semantic family labels, absence of geometric near-duplicates and family leakage remains unknown.",
+  "prior_fold_audit_mismatches": 0
+}

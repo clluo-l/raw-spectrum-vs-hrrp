@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "seed": 17,
+  "synthetic_shape": {
+    "queries": [3, 2, 91],
+    "templates": [5, 2, 91]
+  },
+  "transform": {
+    "global_phase_rad": 0.73,
+    "integer_circular_range_cell": 7
+  },
+  "max_absolute_score_difference": {
+    "complex_global_phase_invariant": 2.9802322387695312e-08,
+    "complex_global_phase_and_range_invariant": 1.0123330979050493e-08,
+    "operational_6ch_global_phase_invariant": 8.55868442783958e-09,
+    "operational_6ch_global_phase_and_range_invariant": 4.440505296798847e-09
+  },
+  "acceptance_tolerance": 1e-6
+}

@@ -1,0 +1,175 @@
+{
+  "status": "ok",
+  "scope": "current repaired tgrs_nested_nonpolar_v2 held-object predictions only",
+  "arms": {
+    "frequency": {
+      "prediction_rows": 8400,
+      "object_count": 20,
+      "seed_count": 7,
+      "great_circle_mean_deg": 36.99556150220689,
+      "great_circle_median_deg": 0.0,
+      "great_circle_p90_deg": 138.59039306640625,
+      "great_circle_p95_deg": 180.0,
+      "top1_acc": 0.6452380952380953,
+      "tail_rate_gt90_deg": 0.19416666666666665,
+      "tail_rate_ge150_deg": 0.09690476190476191,
+      "near_antipodal_rate_ge165_lt180": 0.0032142857142857142,
+      "exact_antipodal_rate_180": 0.06904761904761905
+    },
+    "rect_ifft": {
+      "prediction_rows": 8400,
+      "object_count": 20,
+      "seed_count": 7,
+      "great_circle_mean_deg": 37.319829862004234,
+      "great_circle_median_deg": 0.0,
+      "great_circle_p90_deg": 143.9022216796875,
+      "great_circle_p95_deg": 180.0,
+      "top1_acc": 0.6394047619047619,
+      "tail_rate_gt90_deg": 0.19785714285714287,
+      "tail_rate_ge150_deg": 0.09797619047619048,
+      "near_antipodal_rate_ge165_lt180": 0.005357142857142857,
+      "exact_antipodal_rate_180": 0.06571428571428571
+    },
+    "hann_ifft": {
+      "prediction_rows": 8400,
+      "object_count": 20,
+      "seed_count": 7,
+      "great_circle_mean_deg": 42.44737987597784,
+      "great_circle_median_deg": 0.0,
+      "great_circle_p90_deg": 150.0,
+      "great_circle_p95_deg": 180.0,
+      "top1_acc": 0.5886904761904762,
+      "tail_rate_gt90_deg": 0.22130952380952382,
+      "tail_rate_ge150_deg": 0.10809523809523809,
+      "near_antipodal_rate_ge165_lt180": 0.005238095238095238,
+      "exact_antipodal_rate_180": 0.07380952380952381
+    },
+    "strong_1nn": {
+      "prediction_rows": 1200,
+      "object_count": 20,
+      "seed_count": 1,
+      "great_circle_mean_deg": 27.2531331637475,
+      "great_circle_median_deg": 0.0,
+      "great_circle_p90_deg": 120.00000000000001,
+      "great_circle_p95_deg": 138.59037789072917,
+      "top1_acc": 0.705,
+      "tail_rate_gt90_deg": 0.13,
+      "tail_rate_ge150_deg": 0.04666666666666667,
+      "near_antipodal_rate_ge165_lt180": 0.0025,
+      "exact_antipodal_rate_180": 0.011666666666666667
+    }
+  },
+  "severity_bin_definition": {
+    "exact": "GCE <= 0.001 deg",
+    "centres_deg": [
+      30,
+      60,
+      90,
+      120,
+      150,
+      180
+    ],
+    "boundaries_deg": [
+      45,
+      75,
+      105,
+      135,
+      165
+    ],
+    "near_antipodal": "165 <= GCE < 179.999 deg",
+    "exact_antipodal": "abs(GCE-180) <= 0.001 deg"
+  },
+  "paired_primary_unit": "20 held objects; learned seeds averaged within object-direction first",
+  "bootstrap_draws": 50000,
+  "bootstrap_seed_root": 20260828,
+  "mesh": {
+    "status": "ok",
+    "object_count": 20,
+    "current_full_file_hashes_unique": true,
+    "recorded_sampled_hashes_unique": true,
+    "recorded_duplicate_file_hash_count": 0,
+    "recorded_duplicate_sampled_mesh_hash_count": 0,
+    "pairwise_descriptor_distance": {
+      "min": 1.194556745915818,
+      "median": 5.103496167070667,
+      "max": 10.442635392659774
+    },
+    "held_to_nearest_train_descriptor_distance": {
+      "min": 1.194556745915818,
+      "median": 2.121520464347325,
+      "max": 6.0066189925861675
+    },
+    "fold_generator_sha256": "faebe470fc4a4dc99494bdf923911f99fb99ded96ab34e503142f940f78c231b",
+    "fold_rule_proven": "OOD_FOLDS is a literal hard-coded mapping; each object is held exactly once; train/test object overlap is zero.",
+    "fold_selection_rationale": "unknown: no random seed, randomization call, semantic-family label, or descriptor-stratification rule is present in the generator.",
+    "near_duplicate_scope": "Exact current STL byte duplicates are excluded. The available 14-D extent/centroid/area descriptor is only coarse evidence; without a registered surface-distance threshold or semantic family labels, absence of geometric near-duplicates and family leakage remains unknown.",
+    "prior_fold_audit_mismatches": 0
+  },
+  "stress": {
+    "status": "ok",
+    "formal_schema": "tgrs-measurement-domain-stress-v1",
+    "source_sha256": "2b895c3096905bb97bea3465bd1ff56c0c4a02d7d660329e8e4d97897156426b",
+    "provenance_script_sha256": "2b895c3096905bb97bea3465bd1ff56c0c4a02d7d660329e8e4d97897156426b",
+    "source_matches_formal_script": true,
+    "condition_count": 18,
+    "realization_count": 42,
+    "realizations_by_family": {
+      "clean": 1,
+      "global_phase": 9,
+      "range_delay": 8,
+      "receiver_awgn": 15,
+      "calibration_ripple": 9
+    },
+    "models": [
+      "matched_rect91_frequency",
+      "matched_rect91_rect_ifft"
+    ],
+    "folds": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "checkpoint_seeds": [
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "awgn_seed_rows": 18000,
+    "calibration_coefficient_rows": 36,
+    "calibration_response_rows": 1638,
+    "calibration_max_reproduction_error": 7.105427357601002e-15,
+    "measurement_equation": "y_p(f)=H_p(f) E_p(f) exp(j phi0) exp(-j 4 pi f DeltaR/c)+n_p(f)",
+    "snr_definition": "SNR=10log10(Ps/Pn), Ps=(1/(2N))*sum_{p,n}|signal_p[n]|^2, with independent proper complex AWGN whose expected per-complex-sample power is Pn; real and imaginary variances are Pn/2.",
+    "range_definition": "DeltaR is monostatic radial range-reference error; exp(-j 4 pi f DeltaR/c) is the two-way phase ramp.",
+    "calibration_definition": "Each draw uses a session-fixed, sample-independent smooth residual H_p(f), independently realized for theta/phi receive channels. Gain and phase ripples have zero fitted constant/linear component and the stated peak absolute bounds.",
+    "session_definition": "A calibration session is one H_p(f) keyed by condition, draw, and receive channel. It is sample-independent and reused across all objects, folds, Frequency/rect-IFFT arms, and seven checkpoint seeds. Theta and phi responses are independent sessions.",
+    "rng_definition": "stable_seed joins key parts with '|', takes SHA-256, interprets the first eight digest bytes as an unsigned little-endian 64-bit integer, and seeds NumPy default_rng (PCG64). There is no single global stress seed.",
+    "calibration_function": "r(u)=sin(2piu+a1)+0.55sin(4piu+a2)+0.25sin(6piu+a3); ai iid U(-pi,pi). The least-squares degree-1 affine component beta0+beta1*u is removed on 91 points, the residual is divided by max absolute value, and scaled to the stated peak gain/phase bound. H_p(f)=10^(g_p(f)/20) exp(j*pi*psi_p(f)/180).",
+    "shared_draw_audit": {
+      "status": "pass",
+      "awgn_key": "receiver-awgn | condition | realization | sample_id; excludes model tag, representation, fold, and checkpoint seed",
+      "calibration_key": "cal-{gain|phase} | condition | realization | receive channel; fixed across samples, folds, representations, and checkpoint seeds",
+      "same_split_order_across_arms_and_seeds": true,
+      "measurement_domain_before_view": true
+    },
+    "post_generation_audit": {
+      "status": "pass",
+      "clean_replays": 56,
+      "clean_classification_mismatches": 0,
+      "stress_checkpoints": 56,
+      "object_metrics_rows": 11760,
+      "direction_count_per_object_seed_realization": 60,
+      "held_object_count": 20,
+      "object_curve_rows": 720,
+      "curve_summary_rows": 36,
+      "paired_delta_rows": 18,
+      "calibration_response_rows": 1638,
+      "all_generated_output_hashes_match": true
+    }
+  }
+}

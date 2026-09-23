@@ -1,0 +1,203 @@
+{
+  "protocols": [
+    {
+      "directions_per_object": 60,
+      "files": [
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/id_dev.txt",
+          "bytes": 9400,
+          "samples": 200,
+          "sha256": "fa322af50c58d77014738d570ae383b80c70334ecef8dbf633153258e34f5462"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/id_test.txt",
+          "bytes": 9400,
+          "samples": 200,
+          "sha256": "c4c842a6b2bd9df4f1281eed5d33e697925475621b8a13b9143ca7de2527dc4a"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/id_train.txt",
+          "bytes": 37600,
+          "samples": 800,
+          "sha256": "fcca09f41019cc4763afb7eeb359e5d4691d647887e12754c029b4a4dab3e700"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer1_dev.txt",
+          "bytes": 7050,
+          "samples": 150,
+          "sha256": "73349e98fea849257cc7977536da7cd588dda708f5bb6afdd235d1ddf23b9a95"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer1_test.txt",
+          "bytes": 14100,
+          "samples": 300,
+          "sha256": "16dc26f433787d200940ffcb614c41933f48f10cfadd3511c8c4ba868afcfcac"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer1_train.txt",
+          "bytes": 35250,
+          "samples": 750,
+          "sha256": "07d2ef7be256ff5ea1ae52f30f9c65bfa3ca07124d19604fe3162a1976950c98"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer2_dev.txt",
+          "bytes": 7050,
+          "samples": 150,
+          "sha256": "5bd1991d539b74640469dabbb45427e89a68aba4db5a2a184db1b3e762bfdda9"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer2_test.txt",
+          "bytes": 14100,
+          "samples": 300,
+          "sha256": "4ec60f44e1c268de1f8c03d0ec6a20268f97441bdb7f7cd916fe014592505b97"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer2_train.txt",
+          "bytes": 35250,
+          "samples": 750,
+          "sha256": "b3a8b617b3881c39b876d06e5d926d6ac4df2c86e4e2135217b4aefaf8202a3a"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer3_dev.txt",
+          "bytes": 7050,
+          "samples": 150,
+          "sha256": "8b6bd0fbaae8144e0690994ad8c40f6cd4f671f6c527820be8b9ef3a4284dd53"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer3_test.txt",
+          "bytes": 14100,
+          "samples": 300,
+          "sha256": "6075b20ead2856160bb5c60d9bbbea8c49ad0c537ee7fd6e152fbe0050813ecd"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer3_train.txt",
+          "bytes": 35250,
+          "samples": 750,
+          "sha256": "1c3a51054c2e4075488f65e20a67eaa78877cc1a787fd856a9fed1c739c30bcb"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer4_dev.txt",
+          "bytes": 7050,
+          "samples": 150,
+          "sha256": "988877a4b12d2d53352e2912ab95bf0670bad09433eb40187d09c5cdd7d21dc4"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer4_test.txt",
+          "bytes": 14100,
+          "samples": 300,
+          "sha256": "4f57d227874b080fde1cddb34b10d1d35ecc08c73245c688788f61efbc53a8d1"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_nested_nonpolar_v2/outer4_train.txt",
+          "bytes": 35250,
+          "samples": 750,
+          "sha256": "1fdc075be164c746e672d3903447b997a53b6f1c5b895005d5149c6fa911391a"
+        }
+      ],
+      "protocol": "tgrs_nested_nonpolar_v2",
+      "source_manifest_included": false,
+      "source_manifest_omission": "contains an infrastructure-specific absolute source path",
+      "source_manifest_sha256": "5004ad8228eb3a9724081e9c7789b28cbc4a57349549b36bd93a5f825e83e550"
+    },
+    {
+      "directions_per_object": 84,
+      "files": [
+        {
+          "archive_path": "evidence/splits/tgrs_811/id_test.txt",
+          "bytes": 7520,
+          "samples": 160,
+          "sha256": "656d5bf3e653eef15f63b98f8e4a1de50b5365e90d6f53005afc2d3e47154a5a"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/id_train.txt",
+          "bytes": 63920,
+          "samples": 1360,
+          "sha256": "ebe718ad8b55dbf93ea286c1c6f235d9db0ad49b0b9711f6c9f39b6a064a443f"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/id_val.txt",
+          "bytes": 7520,
+          "samples": 160,
+          "sha256": "3f85de45abbf90170ef074ea36db4f0726ba7c36d3a266a2e8d867063682f0e2"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer1_test.txt",
+          "bytes": 1880,
+          "samples": 40,
+          "sha256": "fffdc5565608c700ab57b458175f60033d7ae7d2174f8b68fc222456afc7bc0b"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer1_train.txt",
+          "bytes": 47940,
+          "samples": 1020,
+          "sha256": "fd2c8ce10d78272aa5189d82f4823c45860362190e434368c97eacfd0ad8415f"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer1_val.txt",
+          "bytes": 5640,
+          "samples": 120,
+          "sha256": "9d1cdd502adafa0d706a2cd2802e779cb720bebc5681af9dc67d4ee2997235eb"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer2_test.txt",
+          "bytes": 1880,
+          "samples": 40,
+          "sha256": "4a350e116da1f49c680fcd15fb3bd1e7e50989db6ecbf6c67327f44e915a25ba"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer2_train.txt",
+          "bytes": 47940,
+          "samples": 1020,
+          "sha256": "b2056b644234e1eab7c05a483139e1c6d20e00abb45bf99dd6157e2e8f303593"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer2_val.txt",
+          "bytes": 5640,
+          "samples": 120,
+          "sha256": "91f1c178c14577856a5cc565aa52ec0934dab2853a44f8f368b1e283bde61ae1"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer3_test.txt",
+          "bytes": 1880,
+          "samples": 40,
+          "sha256": "886fc896c841c200daf75b9a98344cbaede5526eaa5c061c15dc5805f1afe2e8"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer3_train.txt",
+          "bytes": 47940,
+          "samples": 1020,
+          "sha256": "b831756b7830e9255ffc0c8a5d53cd4fc58e16e6da4b8418a6d7277ca9022b27"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer3_val.txt",
+          "bytes": 5640,
+          "samples": 120,
+          "sha256": "6bbee7a421c7ab3c469fc9ee86c6fa844fc4803c200d33bf040118e7cc95723a"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer4_test.txt",
+          "bytes": 1880,
+          "samples": 40,
+          "sha256": "2c07efed98b10e91410937f69450dc4598d149dae3227f6f8aa0c957537a7939"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer4_train.txt",
+          "bytes": 47940,
+          "samples": 1020,
+          "sha256": "22598484d585c018518e2b536f900bfddc36a13df785e49c24e24025795d1efa"
+        },
+        {
+          "archive_path": "evidence/splits/tgrs_811/outer4_val.txt",
+          "bytes": 5640,
+          "samples": 120,
+          "sha256": "9c1bd8b4b29ae2d0f2c6c53c43f98c79aa790ba7ca31b0bfa5f147cbee1daa80"
+        }
+      ],
+      "protocol": "tgrs_811_v1",
+      "source_manifest_included": false,
+      "source_manifest_omission": "contains an infrastructure-specific absolute source path",
+      "source_manifest_sha256": "a8bfaf3a4cec2d9338a019727d2f631cf8f7dace3fe6cb7e15710c718d07de80"
+    }
+  ],
+  "schema": "tgrs-current-evidence-split-manifest-v1"
+}

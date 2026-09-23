@@ -1,0 +1,721 @@
+model_tag,model,condition,family,x_value,x_label,object_code,seed_realization_count,great_circle_mae_deg,top1_acc
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b7c1,21,18.610986967692295,0.8523809523809524
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b7fd,21,53.11235065006074,0.40396825396825403
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b80b,21,13.04761905670166,0.9103174603174602
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b812,21,14.972762616475423,0.8992063492063492
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b827,21,19.199378926413402,0.826984126984127
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b871,21,18.466687219861953,0.8499999999999999
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b8ed,21,41.370073816511365,0.5603174603174603
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b905,21,18.62407261227805,0.8325396825396826
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b943,21,20.25278364363171,0.8087301587301587
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b974,21,14.827502676040405,0.9079365079365077
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b979,21,67.74575950758798,0.2
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b97b,21,27.325834212227477,0.7293650793650794
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b9e6,21,18.823949751778258,0.861111111111111
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,ba0f,21,74.73307858951509,0.2579365079365079
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,baa9,21,4.687226262168279,0.9722222222222223
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,bb26,21,72.86797455908761,0.2563492063492063
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,bb7c,21,22.520242591888184,0.7976190476190477
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,bb7d,21,90.247409255164,0.15634920634920635
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,bbc6,21,50.92538687388102,0.4976190476190477
+matched_rect91_frequency,Frequency,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,bc2c,21,84.90147587155539,0.1952380952380952
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b7c1,21,21.512392774460807,0.8134920634920636
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b7fd,21,53.02851948738099,0.40317460317460324
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b80b,21,17.453906637524806,0.8579365079365079
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b812,21,16.031026529130482,0.8920634920634919
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b827,21,24.14798391054547,0.765873015873016
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b871,21,22.21940831683931,0.7992063492063493
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b8ed,21,41.4686879597013,0.5642857142857142
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b905,21,19.59997905852303,0.8198412698412699
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b943,21,22.107785225671435,0.7753968253968253
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b974,21,17.342502265506322,0.8698412698412697
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b979,21,68.44465425430784,0.21349206349206348
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b97b,21,30.408188565572107,0.6857142857142856
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b9e6,21,20.041697974432083,0.8500000000000001
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,ba0f,21,73.74851083755493,0.2587301587301587
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,baa9,21,11.369112547617112,0.9087301587301587
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,bb26,21,74.64068130008758,0.24047619047619043
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,bb7c,21,24.32888435939002,0.784920634920635
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,bb7d,21,89.67683032732161,0.1579365079365079
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,bbc6,21,50.715333975685965,0.496031746031746
+matched_rect91_frequency,Frequency,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,bc2c,21,86.03657068979172,0.17698412698412702
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b7c1,21,31.673834955881507,0.6333333333333334
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b7fd,21,58.75837964784532,0.3333333333333333
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b80b,21,29.655228169759123,0.6587301587301587
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b812,21,27.523517915937628,0.6793650793650793
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b827,21,34.91111589991857,0.6095238095238095
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b871,21,30.159615607488718,0.6833333333333333
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b8ed,21,54.92772694239542,0.40079365079365087
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b905,21,29.932255965944325,0.6952380952380953
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b943,21,36.79258060303945,0.5682539682539682
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b974,21,30.986328062935474,0.6460317460317461
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b979,21,71.83092530265688,0.1626984126984127
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b97b,21,42.564204589147415,0.5134920634920634
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b9e6,21,29.470149630591987,0.6904761904761906
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,ba0f,21,78.61036334189157,0.21825396825396823
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,baa9,21,26.098995001353916,0.7134920634920634
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,bb26,21,74.87877080856805,0.2007936507936508
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,bb7c,21,41.28772599886334,0.5206349206349206
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,bb7d,21,90.10663091720096,0.13015873015873017
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,bbc6,21,54.689795801374636,0.4031746031746032
+matched_rect91_frequency,Frequency,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,bc2c,21,85.36836212551782,0.15317460317460316
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b7c1,7,19.161167351404824,0.854761904761905
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b7fd,7,53.00742434319995,0.41666666666666663
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b80b,7,10.428571364993141,0.9380952380952382
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b812,7,12.911474464053198,0.923809523809524
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b827,7,19.921388251440867,0.8166666666666667
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b871,7,17.833155577523367,0.8499999999999999
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b8ed,7,40.85820532526289,0.5595238095238095
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b905,7,17.68573532558623,0.8476190476190476
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b943,7,21.227030256816317,0.8095238095238094
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b974,7,14.918821652730305,0.9095238095238096
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b979,7,67.12808238211133,0.2119047619047619
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b97b,7,26.81057575770787,0.7261904761904763
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,b9e6,7,18.391337362925213,0.8619047619047618
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,ba0f,7,72.882087239765,0.26904761904761904
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,baa9,7,3.857142857142857,0.9785714285714285
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,bb26,7,74.16364283561708,0.2571428571428572
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,bb7c,7,22.590275224049886,0.8142857142857143
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,bb7d,7,90.05052256811233,0.15476190476190474
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,bbc6,7,50.24340035120646,0.5047619047619047
+matched_rect91_frequency,Frequency,clean,clean,0.0,clean,bc2c,7,85.84118955248879,0.2
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b7c1,14,45.25280952226548,0.39285714285714285
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b7fd,14,67.23867148331233,0.23214285714285715
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b80b,14,45.710417171886995,0.4166666666666667
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b812,14,40.15093555450439,0.48571428571428565
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b827,14,49.60590889567421,0.3547619047619048
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b871,14,42.43181106249492,0.4547619047619048
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b8ed,14,61.090259687105814,0.32261904761904764
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b905,14,50.44836791697003,0.3761904761904762
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b943,14,47.8908173424857,0.41190476190476194
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b974,14,45.72208433037712,0.41309523809523807
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b979,14,73.46187032177336,0.17738095238095236
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b97b,14,53.81333379177819,0.3547619047619048
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,b9e6,14,42.33366353171211,0.43333333333333346
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,ba0f,14,79.05912172907874,0.1773809523809524
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,baa9,14,46.766931126231235,0.40476190476190477
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,bb26,14,80.32120166392552,0.14761904761904762
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,bb7c,14,53.68423158781868,0.3523809523809524
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,bb7d,14,88.41463717392513,0.14523809523809522
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,bbc6,14,59.63362043471564,0.3071428571428571
+matched_rect91_frequency,Frequency,phase_15deg,global_phase,15.0,15 deg,bc2c,14,81.75522878737677,0.13809523809523808
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b7c1,7,98.70159848758153,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b7fd,7,92.26430612064543,0.0023809523809523807
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b80b,7,96.18208490099225,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b812,7,98.85916797320048,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b827,7,97.35362415313719,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b871,7,95.54681329045978,0.0023809523809523807
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b8ed,7,92.69151046389626,0.0023809523809523807
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b905,7,96.4547927924565,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b943,7,95.53820990153721,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b974,7,97.95120874132431,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b979,7,92.42152965409414,0.0071428571428571435
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b97b,7,95.44431947980608,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,b9e6,7,98.31584184056236,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,ba0f,7,92.52276405606952,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,baa9,7,93.40470696176801,0.0023809523809523807
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,bb26,7,90.35576261111669,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,bb7c,7,97.30210008848282,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,bb7d,7,89.09573827471051,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,bbc6,7,93.79762659072877,0.0
+matched_rect91_frequency,Frequency,phase_180deg,global_phase,180.0,180 deg,bc2c,7,94.1245554833185,0.0
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b7c1,14,68.34614641666413,0.15833333333333335
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b7fd,14,80.96561286108833,0.0988095238095238
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b80b,14,69.24495660236904,0.1583333333333333
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b812,14,65.26448097569603,0.19404761904761902
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b827,14,71.56825998056503,0.1476190476190476
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b871,14,67.61286405722299,0.18095238095238095
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b8ed,14,77.93852975254968,0.10714285714285714
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b905,14,73.83516631353469,0.16428571428571423
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b943,14,70.74907293887364,0.15833333333333335
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b974,14,70.84708351975397,0.16785714285714284
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b979,14,81.27491093476613,0.12023809523809523
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b97b,14,72.96473710991089,0.15476190476190474
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,b9e6,14,67.8020056531543,0.18095238095238092
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,ba0f,14,84.80711485998971,0.09523809523809525
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,baa9,14,72.76337659813109,0.1642857142857143
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,bb26,14,85.61151909487589,0.09047619047619047
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,bb7c,14,73.7303624016898,0.13452380952380952
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,bb7d,14,90.01966082255045,0.04642857142857143
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,bbc6,14,74.34847470805758,0.14523809523809522
+matched_rect91_frequency,Frequency,phase_30deg,global_phase,30.0,30 deg,bc2c,14,84.3401170776004,0.06309523809523811
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b7c1,14,84.62466966878799,0.05357142857142858
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b7fd,14,88.96152043796722,0.03809523809523809
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b80b,14,84.14393714609602,0.04880952380952381
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b812,14,83.9191880816505,0.06309523809523811
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b827,14,84.77901727585564,0.05952380952380953
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b871,14,84.54226976008643,0.04404761904761905
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b8ed,14,88.68704047089531,0.04404761904761905
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b905,14,87.18524218286787,0.05119047619047619
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b943,14,87.21219751267208,0.05952380952380953
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b974,14,86.27826623462495,0.058333333333333334
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b979,14,87.6417477732613,0.052380952380952396
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b97b,14,88.09737663496108,0.05714285714285714
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,b9e6,14,83.93961400758653,0.05476190476190478
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,ba0f,14,89.33918194203149,0.017857142857142856
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,baa9,14,87.84306476910909,0.051190476190476196
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,bb26,14,89.79001926581064,0.04166666666666667
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,bb7c,14,86.42874832834516,0.03214285714285714
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,bb7d,14,91.39039412566595,0.023809523809523808
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,bbc6,14,86.25170597462429,0.06071428571428572
+matched_rect91_frequency,Frequency,phase_60deg,global_phase,60.0,60 deg,bc2c,14,87.8611582313265,0.024999999999999998
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b7c1,14,90.93745809396106,0.014285714285714287
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b7fd,14,92.10862863177344,0.023809523809523808
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b80b,14,90.246772813797,0.02142857142857143
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b812,14,89.33735128016701,0.023809523809523808
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b827,14,90.62380450226013,0.03095238095238095
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b871,14,90.64166873182569,0.024999999999999998
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b8ed,14,92.65653519403365,0.017857142857142856
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b905,14,91.83337210132963,0.02857142857142857
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b943,14,90.43796289988924,0.027380952380952377
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b974,14,89.01120591844833,0.026190476190476188
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b979,14,92.68074756122772,0.024999999999999998
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b97b,14,91.498000059809,0.02857142857142857
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,b9e6,14,89.75569794178008,0.017857142857142856
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,ba0f,14,89.2682763678687,0.02023809523809524
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,baa9,14,91.54356713181451,0.027380952380952377
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,bb26,14,91.0611349321547,0.02261904761904762
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,bb7c,14,91.74435040383112,0.015476190476190477
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,bb7d,14,89.63635753336406,0.02142857142857143
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,bbc6,14,89.62806552818844,0.03452380952380952
+matched_rect91_frequency,Frequency,phase_90deg,global_phase,90.0,90 deg,bc2c,14,89.68845677943456,0.02261904761904762
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b7c1,14,97.34562007245563,0.0071428571428571435
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b7fd,14,92.11097110453106,0.009523809523809523
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b80b,14,95.87999295053025,0.0035714285714285718
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b812,14,97.01300678480239,0.0047619047619047615
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b827,14,94.26177799701692,0.0047619047619047615
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b871,14,96.08052198886871,0.0035714285714285718
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b8ed,14,94.09307977017902,0.009523809523809523
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b905,14,94.65472146783556,0.0035714285714285718
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b943,14,96.59108266262783,0.007142857142857143
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b974,14,96.98956400666918,0.005952380952380952
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b979,14,93.16365179220836,0.009523809523809523
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b97b,14,96.46981875555856,0.005952380952380952
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,b9e6,14,97.86397928396862,0.0047619047619047615
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,ba0f,14,90.26263408433825,0.005952380952380952
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,baa9,14,95.65890044144221,0.007142857142857143
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,bb26,14,91.64923292114622,0.013095238095238094
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,bb7c,14,97.73488748527708,0.0023809523809523807
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,bb7d,14,89.61484929039365,0.0047619047619047615
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,bbc6,14,93.23104070595333,0.008333333333333333
+matched_rect91_frequency,Frequency,range_10cm,range_delay,10.0,10 cm,bc2c,14,99.60603523367925,0.0071428571428571435
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b7c1,14,53.193863588287705,0.31904761904761897
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b7fd,14,70.12700449739182,0.20000000000000004
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b80b,14,52.43631709643772,0.3595238095238096
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b812,14,48.39305327052163,0.3964285714285714
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b827,14,58.45564554986499,0.27380952380952384
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b871,14,54.160383291471575,0.3404761904761905
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b8ed,14,66.5209423553376,0.2464285714285714
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b905,14,59.98650494530087,0.29761904761904756
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b943,14,53.56240967909495,0.3369047619047619
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b974,14,50.939785135360005,0.34285714285714286
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b979,14,74.76235865184239,0.15595238095238093
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b97b,14,57.10962013630639,0.3083333333333333
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,b9e6,14,52.14297075044541,0.3488095238095238
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,ba0f,14,80.70331477551234,0.1761904761904762
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,baa9,14,53.569226070812775,0.33690476190476193
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,bb26,14,80.41984701383682,0.13333333333333333
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,bb7c,14,57.72547117187863,0.31071428571428567
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,bb7d,14,87.96675644488562,0.12500000000000003
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,bbc6,14,64.26479730946677,0.2642857142857143
+matched_rect91_frequency,Frequency,range_1cm,range_delay,1.0,1 cm,bc2c,14,83.83093282722292,0.11904761904761907
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b7c1,14,73.36651613258182,0.13214285714285715
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b7fd,14,81.81446720759074,0.08690476190476192
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b80b,14,75.55743278435298,0.14404761904761904
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b812,14,72.76472233704159,0.15238095238095237
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b827,14,76.47407766977946,0.12261904761904763
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b871,14,72.27848988828207,0.1380952380952381
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b8ed,14,81.28019444942473,0.0880952380952381
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b905,14,78.97281975292023,0.13214285714285715
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b943,14,73.86891343593598,0.14642857142857144
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b974,14,73.73882156440189,0.15952380952380954
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b979,14,83.74725641296023,0.08571428571428573
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b97b,14,75.78851678939093,0.13690476190476192
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,b9e6,14,73.55140656970796,0.15952380952380954
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,ba0f,14,85.97088188670931,0.08095238095238096
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,baa9,14,77.51120459579286,0.13333333333333336
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,bb26,14,87.42995486600059,0.08214285714285716
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,bb7c,14,78.15474725791387,0.10595238095238095
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,bb7d,14,90.50389152708509,0.05
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,bbc6,14,78.24962742669241,0.12380952380952381
+matched_rect91_frequency,Frequency,range_2cm,range_delay,2.0,2 cm,bc2c,14,86.30921214989253,0.0642857142857143
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b7c1,14,90.83868690672377,0.042857142857142864
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b7fd,14,89.28471414021082,0.03571428571428571
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b80b,14,89.52773967470442,0.04761904761904762
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b812,14,87.88074615682875,0.04761904761904762
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b827,14,88.97750367550624,0.04642857142857143
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b871,14,89.81764911242894,0.038095238095238106
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b8ed,14,91.08156848634992,0.03214285714285714
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b905,14,94.14621237005507,0.03452380952380952
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b943,14,90.3933870746976,0.05357142857142857
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b974,14,88.51303305285316,0.05119047619047619
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b979,14,90.77885060764494,0.03809523809523809
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b97b,14,90.23063473701477,0.05238095238095238
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,b9e6,14,88.88374264467332,0.05357142857142858
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,ba0f,14,88.21382179714385,0.03214285714285715
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,baa9,14,89.38807742368606,0.036904761904761905
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,bb26,14,90.69547449066523,0.03809523809523809
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,bb7c,14,93.24711583796002,0.02976190476190476
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,bb7d,14,89.72293305283502,0.026190476190476188
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,bbc6,14,88.58321552844275,0.048809523809523817
+matched_rect91_frequency,Frequency,range_5cm,range_delay,5.0,5 cm,bc2c,14,91.63137852237337,0.027380952380952377
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b7c1,21,74.07943039091808,0.14047619047619048
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b7fd,21,83.98900656094627,0.09285714285714286
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b80b,21,78.70078424726213,0.17857142857142855
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b812,21,78.18081037581914,0.1349206349206349
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b827,21,77.77634033854045,0.13174603174603178
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b871,21,79.32253444308327,0.14365079365079364
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b8ed,21,73.89299872564891,0.1722222222222222
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b905,21,72.0078556257581,0.15873015873015872
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b943,21,80.54768719975911,0.14523809523809522
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b974,21,78.4266945362091,0.14603174603174604
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b979,21,81.87399846258619,0.08412698412698413
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b97b,21,81.00450679688227,0.12380952380952379
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,b9e6,21,70.43055195959786,0.20793650793650795
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,ba0f,21,88.87103791085502,0.08492063492063491
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,baa9,21,74.94776395313323,0.16666666666666666
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,bb26,21,81.6821073463985,0.08888888888888889
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,bb7c,21,76.02169129659259,0.146031746031746
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,bb7d,21,88.0542690057603,0.07063492063492065
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,bbc6,21,86.06334700357347,0.11587301587301588
+matched_rect91_frequency,Frequency,snr_0db,receiver_awgn,0.0,0 dB,bc2c,21,85.11608209458608,0.06984126984126986
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b7c1,21,31.227513794671918,0.6222222222222222
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b7fd,21,63.85032262726434,0.2952380952380952
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b80b,21,36.93375046820867,0.6325396825396826
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b812,21,37.188549181771656,0.6309523809523809
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b827,21,47.730559521629694,0.480952380952381
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b871,21,41.3591685491895,0.5325396825396826
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b8ed,21,51.91773045403617,0.4261904761904762
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b905,21,39.15712692169916,0.5928571428571429
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b943,21,40.60916910020132,0.5587301587301587
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b974,21,42.46307081116571,0.5571428571428572
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b979,21,72.35888380777268,0.17380952380952383
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b97b,21,48.680051587876825,0.4817460317460317
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,b9e6,21,36.54393012788561,0.638095238095238
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,ba0f,21,77.11649611109779,0.22222222222222224
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,baa9,21,33.16690159222437,0.6341269841269841
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,bb26,21,82.58927113972011,0.17222222222222222
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,bb7c,21,43.00498979962061,0.5277777777777779
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,bb7d,21,91.00347396532695,0.12936507936507938
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,bbc6,21,63.17459152236816,0.35079365079365077
+matched_rect91_frequency,Frequency,snr_10db,receiver_awgn,10.0,10 dB,bc2c,21,83.79927958609565,0.16507936507936505
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b7c1,21,19.52024465212746,0.8261904761904763
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b7fd,21,57.16951644685533,0.37619047619047613
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b80b,21,18.919378615182545,0.8642857142857142
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b812,21,17.857464144721863,0.8634920634920633
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b827,21,25.442107442825556,0.7674603174603173
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b871,21,28.263331846206906,0.773809523809524
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b8ed,21,40.51209117420136,0.5714285714285714
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b905,21,25.782586277855767,0.7873015873015874
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b943,21,22.622569504238314,0.7984126984126984
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b974,21,22.911387974875314,0.8460317460317461
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b979,21,67.75677801238167,0.2111111111111111
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b97b,21,33.74420587978667,0.6698412698412698
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,b9e6,21,22.80068992962913,0.8293650793650794
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,ba0f,21,73.08185322095477,0.2714285714285714
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,baa9,21,16.292829017033654,0.8936507936507935
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,bb26,21,75.63869787019397,0.2349206349206349
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,bb7c,21,27.41360086259388,0.765079365079365
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,bb7d,21,88.40042480514164,0.15396825396825395
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,bbc6,21,49.89068559994774,0.4833333333333333
+matched_rect91_frequency,Frequency,snr_20db,receiver_awgn,20.0,20 dB,bc2c,21,84.66269123062254,0.18730158730158727
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b7c1,21,19.34554825434609,0.8436507936507935
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b7fd,21,53.991640603353105,0.4134920634920636
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b80b,21,12.816414442516507,0.9206349206349206
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b812,21,14.623376943194677,0.9134920634920635
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b827,21,19.99580571235172,0.8166666666666668
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b871,21,19.948939036566117,0.8380952380952381
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b8ed,21,39.99205395532033,0.5682539682539683
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b905,21,19.77502867532155,0.8317460317460318
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b943,21,20.853444443808662,0.8071428571428572
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b974,21,16.091688171265616,0.8999999999999999
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b979,21,67.66203998762464,0.20634920634920634
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b97b,21,27.786592545585027,0.7182539682539681
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,b9e6,21,19.68678186204699,0.8563492063492062
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,ba0f,21,74.59073753281245,0.26428571428571423
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,baa9,21,9.714285723368326,0.945238095238095
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,bb26,21,73.99333915256318,0.2523809523809524
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,bb7c,21,24.66114136075217,0.7976190476190478
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,bb7d,21,89.55902678247483,0.1579365079365079
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,bbc6,21,50.18219711742703,0.5031746031746034
+matched_rect91_frequency,Frequency,snr_30db,receiver_awgn,30.0,30 dB,bc2c,21,86.18139118996878,0.1865079365079365
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b7c1,21,51.12241978039818,0.39285714285714285
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b7fd,21,74.61823633209109,0.19920634920634922
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b80b,21,59.0198890496814,0.3468253968253968
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b812,21,58.19623475301833,0.3611111111111111
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b827,21,62.01170781529139,0.28968253968253965
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b871,21,59.576749439088125,0.31825396825396823
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b8ed,21,67.0919068760342,0.2603174603174603
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b905,21,61.276321825905455,0.3246031746031746
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b943,21,57.31649518845573,0.3563492063492064
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b974,21,63.7473398503803,0.3182539682539683
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b979,21,79.94069624704028,0.12142857142857144
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b97b,21,63.392480411983676,0.292063492063492
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,b9e6,21,55.430100257056104,0.3738095238095238
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,ba0f,21,79.30586468681456,0.15873015873015875
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,baa9,21,51.17399999376328,0.3992063492063492
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,bb26,21,82.8547587220631,0.14523809523809522
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,bb7c,21,58.36069687056163,0.33015873015873015
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,bb7d,21,91.22322331837245,0.09920634920634921
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,bbc6,21,68.48265191638282,0.22301587301587303
+matched_rect91_frequency,Frequency,snr_5db,receiver_awgn,5.0,5 dB,bc2c,21,85.87046587429349,0.10317460317460317
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b7c1,21,18.92854187375023,0.8587301587301588
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b7fd,21,65.64909428641911,0.28095238095238095
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b80b,21,9.678264197849094,0.9325396825396824
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b812,21,14.659810353082321,0.8896825396825395
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b827,21,17.661402531275673,0.8246031746031746
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b871,21,19.998853354983858,0.8365079365079365
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b8ed,21,51.14989630911085,0.48492063492063486
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b905,21,18.287977333674355,0.8198412698412698
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b943,21,20.687219703765145,0.8198412698412699
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b974,21,16.168078705621145,0.8896825396825397
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b979,21,70.60675028316558,0.18174603174603177
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b97b,21,27.42698990276881,0.7269841269841271
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,b9e6,21,18.724604780711825,0.8626984126984127
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,ba0f,21,68.58641467472863,0.31904761904761897
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,baa9,21,4.11926023543827,0.973015873015873
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,bb26,21,75.8448563023219,0.24365079365079362
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,bb7c,21,21.178194118681407,0.8253968253968255
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,bb7d,21,90.52318347824945,0.1492063492063492
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,bbc6,21,55.13443502622939,0.46825396825396826
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_0p5db_5deg,calibration_ripple,0.5,0.5 dB / 5 deg,bc2c,21,81.22637210573468,0.19047619047619052
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b7c1,21,19.974059856505626,0.8214285714285714
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b7fd,21,65.8458307531145,0.28015873015873016
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b80b,21,17.650336587996712,0.8452380952380955
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b812,21,17.150010738675558,0.8666666666666666
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b827,21,23.263831345240273,0.7555555555555555
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b871,21,24.43552316786751,0.7753968253968253
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b8ed,21,53.65295017560323,0.44365079365079363
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b905,21,21.876444916498095,0.7904761904761906
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b943,21,22.649091066632952,0.7753968253968255
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b974,21,18.61619488928053,0.8452380952380955
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b979,21,72.11971470060803,0.18333333333333332
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b97b,21,31.7360212363894,0.6563492063492065
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,b9e6,21,19.718404707832942,0.8531746031746034
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,ba0f,21,68.13801654255579,0.3269841269841269
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,baa9,21,11.153684661501929,0.9087301587301587
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,bb26,21,80.18046704776705,0.20634920634920637
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,bb7c,21,27.484485553559807,0.746031746031746
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,bb7d,21,90.14237040792193,0.1476190476190476
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,bbc6,21,58.0556119207352,0.43571428571428567
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_1db_10deg,calibration_ripple,1.0,1 dB / 10 deg,bc2c,21,83.15964301881336,0.18253968253968253
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b7c1,21,37.73280346658495,0.5611111111111111
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b7fd,21,71.06023566230894,0.23015873015873015
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b80b,21,37.27517927639068,0.5706349206349207
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b812,21,32.3862900045183,0.5912698412698413
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b827,21,39.60926612672351,0.5309523809523811
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b871,21,37.46409785633995,0.584920634920635
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b8ed,21,64.36970484824408,0.3
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b905,21,37.492872010336974,0.6007936507936508
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b943,21,42.10757128170558,0.4785714285714284
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b974,21,38.56410540020655,0.5285714285714287
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b979,21,77.70093444869632,0.1341269841269841
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b97b,21,48.189466515041524,0.4317460317460318
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,b9e6,21,33.44662815805466,0.6222222222222221
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,ba0f,21,76.67373942950414,0.21746031746031744
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,baa9,21,28.544406640340412,0.6595238095238094
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,bb26,21,80.35345495617578,0.16507936507936508
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,bb7c,21,46.93588251840501,0.45952380952380956
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,bb7d,21,92.32625348151677,0.09682539682539684
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,bbc6,21,62.16082160964844,0.3476190476190476
+matched_rect91_rect_ifft,Rect-IFFT HRRP,cal_2db_20deg,calibration_ripple,2.0,2 dB / 20 deg,bc2c,21,83.45817710937015,0.14206349206349206
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b7c1,7,17.077965500241234,0.8761904761904761
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b7fd,7,65.26363645962306,0.29047619047619044
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b80b,7,6.428571455819267,0.9595238095238096
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b812,7,11.864490191141764,0.9238095238095239
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b827,7,16.889999328340803,0.8285714285714284
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b871,7,19.7326924551101,0.8452380952380951
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b8ed,7,48.689634304954886,0.4928571428571428
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b905,7,17.50167455673218,0.8476190476190475
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b943,7,20.49142331168765,0.8214285714285714
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b974,7,15.149669937860399,0.9095238095238096
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b979,7,70.15851272855487,0.18571428571428572
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b97b,7,28.601844957896642,0.7
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,b9e6,7,15.216021492367698,0.8809523809523808
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,ba0f,7,67.0546735604604,0.34285714285714286
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,baa9,7,2.401724570138114,0.9833333333333334
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,bb26,7,76.04746216365268,0.24523809523809526
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,bb7c,7,22.249767628170193,0.8238095238095237
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,bb7d,7,90.14047725768316,0.1476190476190476
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,bbc6,7,53.50504034133184,0.4976190476190476
+matched_rect91_rect_ifft,Rect-IFFT HRRP,clean,clean,0.0,clean,bc2c,7,81.93131503831773,0.1857142857142857
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b7c1,14,46.45947437626974,0.4011904761904762
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b7fd,14,72.66192989122301,0.18333333333333332
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b80b,14,45.312401877130775,0.4238095238095238
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b812,14,38.034313447134835,0.5059523809523808
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b827,14,46.94235467456637,0.37976190476190474
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b871,14,41.86515476022448,0.4702380952380953
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b8ed,14,66.96272972651892,0.2702380952380953
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b905,14,45.73462536334991,0.4083333333333333
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b943,14,49.320998121443246,0.3928571428571429
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b974,14,44.16132172970545,0.42976190476190484
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b979,14,76.24779310567037,0.13452380952380952
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b97b,14,53.353422983487455,0.34523809523809523
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,b9e6,14,41.84985946133023,0.4345238095238095
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,ba0f,14,79.3486135607674,0.17976190476190476
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,baa9,14,47.390584203175145,0.4083333333333334
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,bb26,14,82.26143006029584,0.14166666666666666
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,bb7c,14,51.58804541088285,0.3785714285714286
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,bb7d,14,90.40169258344743,0.13333333333333333
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,bbc6,14,61.185626215026495,0.32976190476190476
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_15deg,global_phase,15.0,15 deg,bc2c,14,82.22489347230821,0.1238095238095238
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b7c1,7,96.85492764654613,0.0
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b7fd,7,87.42647063618615,0.0071428571428571435
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b80b,7,96.57211810520718,0.0023809523809523807
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b812,7,95.76153190476555,0.0
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b827,7,94.46601473036266,0.0047619047619047615
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b871,7,93.8274886789776,0.0023809523809523807
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b8ed,7,87.25414439837138,0.009523809523809523
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b905,7,92.83832485335213,0.0023809523809523807
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b943,7,93.51049108732313,0.0
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b974,7,95.91889019239518,0.0
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b979,7,88.45317842392696,0.0071428571428571435
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b97b,7,93.20750598226276,0.0023809523809523807
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,b9e6,7,97.30823822248547,0.0023809523809523807
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,ba0f,7,93.61185194197155,0.0
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,baa9,7,86.46370090075901,0.0
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,bb26,7,89.95116074879965,0.0
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,bb7c,7,97.26085179873874,0.0023809523809523807
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,bb7d,7,89.30982398986816,0.0047619047619047615
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,bbc6,7,90.12463651384626,0.0047619047619047615
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_180deg,global_phase,180.0,180 deg,bc2c,7,93.09417089280628,0.0047619047619047615
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b7c1,14,68.63343210674466,0.18452380952380953
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b7fd,14,81.56662725039891,0.1
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b80b,14,69.97808095500582,0.17142857142857143
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b812,14,65.98842235519773,0.2
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b827,14,70.21122171992347,0.1583333333333333
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b871,14,66.77788025651658,0.18690476190476188
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b8ed,14,81.85201990604402,0.1130952380952381
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b905,14,73.0358607144583,0.1583333333333333
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b943,14,71.44616092500232,0.1642857142857143
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b974,14,69.17507381666273,0.18452380952380953
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b979,14,83.67965503874278,0.07619047619047618
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b97b,14,74.27043502557845,0.15119047619047618
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,b9e6,14,65.55069387072609,0.21428571428571425
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,ba0f,14,82.49980164823079,0.10476190476190475
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,baa9,14,70.24797468298956,0.17380952380952383
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,bb26,14,86.63476316588266,0.08333333333333334
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,bb7c,14,74.29947577658153,0.15952380952380954
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,bb7d,14,90.27783393292201,0.042857142857142864
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,bbc6,14,73.9068526211239,0.16071428571428575
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_30deg,global_phase,30.0,30 deg,bc2c,14,83.99478652136666,0.06190476190476191
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b7c1,14,84.27895383494241,0.060714285714285714
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b7fd,14,89.46113106296175,0.03214285714285714
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b80b,14,83.73257060164497,0.06904761904761907
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b812,14,85.55929601078942,0.05833333333333334
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b827,14,86.1224538303557,0.05952380952380953
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b871,14,85.52216320946104,0.05476190476190477
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b8ed,14,92.57094607126146,0.02261904761904762
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b905,14,87.99164236840748,0.05238095238095238
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b943,14,85.77958257879529,0.07261904761904761
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b974,14,85.8143733535494,0.059523809523809534
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b979,14,86.34302823770614,0.04880952380952381
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b97b,14,85.15641499133336,0.07738095238095237
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,b9e6,14,82.74139234224957,0.07380952380952384
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,ba0f,14,86.65427984964279,0.05119047619047619
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,baa9,14,88.56885567846753,0.04880952380952381
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,bb26,14,90.13558383555639,0.04166666666666667
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,bb7c,14,86.34151448408763,0.048809523809523817
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,bb7d,14,90.41092108771913,0.024999999999999998
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,bbc6,14,86.57166935035161,0.06666666666666668
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_60deg,global_phase,60.0,60 deg,bc2c,14,89.4983931166785,0.02976190476190476
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b7c1,14,90.29454420521145,0.019047619047619046
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b7fd,14,91.17660043353125,0.024999999999999998
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b80b,14,87.75880455857232,0.02142857142857143
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b812,14,89.85639285019465,0.02380952380952381
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b827,14,89.5881592875435,0.02023809523809524
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b871,14,89.79716489315034,0.02023809523809524
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b8ed,14,93.70378573962621,0.010714285714285714
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b905,14,90.64834195432208,0.017857142857142856
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b943,14,91.69674630505699,0.02976190476190476
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b974,14,89.60585668314071,0.025
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b979,14,90.98863727592287,0.028571428571428574
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b97b,14,91.49434036867957,0.024999999999999998
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,b9e6,14,89.56195085502806,0.02023809523809524
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,ba0f,14,89.46753768466769,0.02142857142857143
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,baa9,14,92.20267327513012,0.02142857142857143
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,bb26,14,93.09370344252815,0.019047619047619046
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,bb7c,14,91.09658305872054,0.011904761904761906
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,bb7d,14,89.06851274626595,0.019047619047619046
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,bbc6,14,90.20387927804676,0.024999999999999998
+matched_rect91_rect_ifft,Rect-IFFT HRRP,phase_90deg,global_phase,90.0,90 deg,bc2c,14,89.55601850804828,0.027380952380952377
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b7c1,14,95.57138868513562,0.010714285714285714
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b7fd,14,90.18087804771605,0.011904761904761904
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b80b,14,94.19123816603704,0.010714285714285714
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b812,14,96.09875318890526,0.0047619047619047615
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b827,14,95.26709593591237,0.0035714285714285718
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b871,14,93.81506183374495,0.009523809523809523
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b8ed,14,91.79059451194037,0.016666666666666666
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b905,14,94.10491266477675,0.0047619047619047615
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b943,14,93.68130517800647,0.0071428571428571435
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b974,14,95.1396132117226,0.0011904761904761904
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b979,14,93.1436334632692,0.009523809523809523
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b97b,14,93.67272340002515,0.005952380952380952
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,b9e6,14,94.85198657058535,0.010714285714285714
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,ba0f,14,89.61643472058434,0.0047619047619047615
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,baa9,14,92.21986296744574,0.017857142857142856
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,bb26,14,92.58329275335583,0.02023809523809524
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,bb7c,14,94.96215087118603,0.008333333333333333
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,bb7d,14,89.93768278530665,0.005952380952380953
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,bbc6,14,92.74590310482753,0.0071428571428571435
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_10cm,range_delay,10.0,10 cm,bc2c,14,95.94649643443879,0.0047619047619047615
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b7c1,14,53.30946394375393,0.34404761904761905
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b7fd,14,73.8737106152943,0.16428571428571428
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b80b,14,53.38020656562986,0.33928571428571425
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b812,14,44.30210267248608,0.45
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b827,14,59.966323192914324,0.2702380952380953
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b871,14,52.89804802508582,0.32857142857142846
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b8ed,14,69.94389773323422,0.23333333333333336
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b905,14,56.37049348354339,0.2952380952380952
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b943,14,53.27527808461871,0.35119047619047616
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b974,14,49.22102136157808,0.375
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b979,14,77.971250302451,0.11785714285714285
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b97b,14,59.10645018645695,0.3095238095238095
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,b9e6,14,49.89526632286254,0.3571428571428572
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,ba0f,14,79.1447376001449,0.16785714285714287
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,baa9,14,52.45111403578803,0.36547619047619045
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,bb26,14,81.47441584950401,0.13095238095238096
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,bb7c,14,59.330174165680305,0.31071428571428567
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,bb7d,14,91.02304078170232,0.11428571428571428
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,bbc6,14,65.58321827139174,0.2869047619047619
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_1cm,range_delay,1.0,1 cm,bc2c,14,82.63472409588951,0.10595238095238095
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b7c1,14,72.09138325282505,0.16666666666666669
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b7fd,14,81.30160157453444,0.09404761904761906
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b80b,14,72.22659078552608,0.16190476190476194
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b812,14,71.93275031702858,0.17023809523809527
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b827,14,77.19749192510332,0.11190476190476192
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b871,14,73.87483036404565,0.1273809523809524
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b8ed,14,83.0580939644859,0.08928571428571429
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b905,14,78.63559185890925,0.12023809523809524
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b943,14,73.35253064405352,0.16666666666666669
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b974,14,72.97876931712742,0.16190476190476194
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b979,14,82.01848920413427,0.06309523809523811
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b97b,14,76.31377597990489,0.14047619047619048
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,b9e6,14,68.90819764591399,0.1976190476190476
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,ba0f,14,82.37087589899701,0.09999999999999999
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,baa9,14,72.43723684946697,0.14880952380952378
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,bb26,14,85.32611405395326,0.09047619047619049
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,bb7c,14,74.95272404579889,0.14642857142857144
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,bb7d,14,90.12572570187704,0.04166666666666667
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,bbc6,14,79.71035393192653,0.13690476190476192
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_2cm,range_delay,2.0,2 cm,bc2c,14,88.10922780718123,0.054761904761904776
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b7c1,14,88.94517328057972,0.045238095238095244
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b7fd,14,88.85308808372135,0.03333333333333333
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b80b,14,87.14226732594626,0.057142857142857155
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b812,14,83.82596632980164,0.054761904761904776
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b827,14,87.96752433322726,0.05
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b871,14,88.43509374459585,0.045238095238095244
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b8ed,14,90.80355359032042,0.03333333333333333
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b905,14,90.26715426445007,0.04285714285714286
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b943,14,88.83364830130621,0.047619047619047616
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b974,14,86.87444817792803,0.05
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b979,14,87.66964953059242,0.02142857142857143
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b97b,14,89.19636997041248,0.05
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,b9e6,14,88.02587346462977,0.05357142857142859
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,ba0f,14,88.01999411696481,0.042857142857142864
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,baa9,14,90.55551614874882,0.042857142857142864
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,bb26,14,90.68907766115099,0.04642857142857144
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,bb7c,14,91.01306480793725,0.0369047619047619
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,bb7d,14,89.8605668488003,0.019047619047619046
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,bbc6,14,88.01453228337425,0.04761904761904763
+matched_rect91_rect_ifft,Rect-IFFT HRRP,range_5cm,range_delay,5.0,5 cm,bc2c,14,89.95443527130853,0.024999999999999998
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b7c1,21,80.85124573480513,0.09206349206349207
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b7fd,21,85.4579301516215,0.05793650793650795
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b80b,21,78.9502774162898,0.1325396825396825
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b812,21,82.39452730738927,0.11666666666666665
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b827,21,79.49925695903718,0.10396825396825396
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b871,21,83.78010507613894,0.09365079365079365
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b8ed,21,79.53692085478042,0.09206349206349207
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b905,21,76.26639731876433,0.13412698412698412
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b943,21,83.35007439340863,0.10952380952380954
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b974,21,86.20961553709846,0.10714285714285714
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b979,21,87.13621608718992,0.028571428571428574
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b97b,21,77.70219260018969,0.11984126984126986
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,b9e6,21,77.73685877436684,0.13571428571428573
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,ba0f,21,92.38939474877857,0.0626984126984127
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,baa9,21,80.75932105987792,0.12142857142857141
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,bb26,21,87.93541730774774,0.05317460317460317
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,bb7c,21,80.01897347616773,0.1253968253968254
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,bb7d,21,93.95242783077181,0.03650793650793652
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,bbc6,21,82.9943664142064,0.11111111111111112
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_0db,receiver_awgn,0.0,0 dB,bc2c,21,85.9794901522379,0.0507936507936508
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b7c1,21,49.66457161600628,0.40952380952380957
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b7fd,21,75.74200386395532,0.17698412698412697
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b80b,21,49.79449186779203,0.4476190476190477
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b812,21,47.66759186320835,0.48333333333333334
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b827,21,55.44850306737991,0.39682539682539686
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b871,21,48.90304493828427,0.42063492063492064
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b8ed,21,71.33086583425127,0.22936507936507936
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b905,21,50.51757899314639,0.4357142857142857
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b943,21,49.11408622378394,0.42857142857142855
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b974,21,52.261082822557476,0.4317460317460317
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b979,21,82.2492170349,0.08888888888888889
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b97b,21,55.64305679457528,0.353968253968254
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,b9e6,21,49.5318111306145,0.45873015873015877
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,ba0f,21,76.51375553872849,0.19126984126984126
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,baa9,21,51.60924355718825,0.45396825396825385
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,bb26,21,89.61138027054922,0.10714285714285716
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,bb7c,21,50.9294302198622,0.4238095238095238
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,bb7d,21,91.59961047550989,0.08492063492063492
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,bbc6,21,65.33111574157836,0.29841269841269835
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_10db,receiver_awgn,10.0,10 dB,bc2c,21,83.48650799630181,0.13412698412698415
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b7c1,21,20.542250520463973,0.803968253968254
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b7fd,21,69.0086389299423,0.23412698412698418
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b80b,21,22.118345578511555,0.8111111111111112
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b812,21,19.49548730547466,0.8420634920634923
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b827,21,27.100539532161893,0.7071428571428571
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b871,21,23.804052788870678,0.7793650793650794
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b8ed,21,56.273283484625445,0.4246031746031746
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b905,21,26.705103533608572,0.7531746031746032
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b943,21,25.603779470352897,0.7563492063492062
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b974,21,22.54659331336854,0.8134920634920636
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b979,21,72.6254041618771,0.16984126984126985
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b97b,21,36.31947590888493,0.6357142857142857
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,b9e6,21,26.941472352497158,0.7833333333333334
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,ba0f,21,71.52599101672098,0.3023809523809523
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,baa9,21,18.55931584872897,0.8420634920634921
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,bb26,21,76.90579320968143,0.21507936507936512
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,bb7c,21,31.243321579221693,0.7063492063492062
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,bb7d,21,90.52112875665937,0.13015873015873014
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,bbc6,21,55.52633871426657,0.4134920634920635
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_20db,receiver_awgn,20.0,20 dB,bc2c,21,82.89879461167351,0.17222222222222225
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b7c1,21,20.75553477605184,0.8468253968253969
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b7fd,21,67.91131837784299,0.276984126984127
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b80b,21,12.97598571625967,0.9166666666666666
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b812,21,14.803126799871048,0.9023809523809525
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b827,21,17.667169277251713,0.8182539682539682
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b871,21,22.554788286723785,0.8230158730158731
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b8ed,21,50.248856506650405,0.48888888888888876
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b905,21,17.56204107678126,0.8412698412698412
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b943,21,19.03583987705291,0.823809523809524
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b974,21,15.688922514991155,0.8984126984126982
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b979,21,71.2223817409031,0.18730158730158733
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b97b,21,30.750702591547885,0.6888888888888888
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,b9e6,21,19.084018537733286,0.8626984126984129
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,ba0f,21,66.85118592882912,0.346031746031746
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,baa9,21,13.772936945112923,0.9190476190476191
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,bb26,21,77.75299138417319,0.22936507936507938
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,bb7c,21,25.085165258437865,0.7992063492063493
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,bb7d,21,91.5904114851876,0.15476190476190474
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,bbc6,21,55.154848236507846,0.4746031746031746
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_30db,receiver_awgn,30.0,30 dB,bc2c,21,82.03308492917863,0.18174603174603174
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b7c1,21,69.28233519811478,0.22301587301587303
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b7fd,21,83.00404672698369,0.09126984126984128
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b80b,21,70.09463240305583,0.22380952380952385
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b812,21,64.64872490564981,0.24126984126984125
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b827,21,66.98513164520263,0.21507936507936506
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b871,21,62.67438621218242,0.23968253968253966
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b8ed,21,81.40814190592084,0.1388888888888889
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b905,21,67.90990781708368,0.22857142857142856
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b943,21,66.41309277746413,0.25476190476190474
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b974,21,66.31455343110221,0.2523809523809524
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b979,21,83.41692927678426,0.06984126984126984
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b97b,21,66.43369398571197,0.2507936507936508
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,b9e6,21,64.42685794224815,0.27222222222222225
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,ba0f,21,84.95023925569322,0.10952380952380951
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,baa9,21,63.21521997376093,0.25396825396825395
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,bb26,21,87.19626455307007,0.06746031746031747
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,bb7c,21,66.31950388106091,0.25317460317460316
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,bb7d,21,86.36541170089964,0.07301587301587302
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,bbc6,21,71.01436965427702,0.20952380952380953
+matched_rect91_rect_ifft,Rect-IFFT HRRP,snr_5db,receiver_awgn,5.0,5 dB,bc2c,21,84.9523776114933,0.0976190476190476

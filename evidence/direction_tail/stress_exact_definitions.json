@@ -1,0 +1,67 @@
+{
+  "status": "ok",
+  "formal_schema": "tgrs-measurement-domain-stress-v1",
+  "source_sha256": "2b895c3096905bb97bea3465bd1ff56c0c4a02d7d660329e8e4d97897156426b",
+  "provenance_script_sha256": "2b895c3096905bb97bea3465bd1ff56c0c4a02d7d660329e8e4d97897156426b",
+  "source_matches_formal_script": true,
+  "condition_count": 18,
+  "realization_count": 42,
+  "realizations_by_family": {
+    "clean": 1,
+    "global_phase": 9,
+    "range_delay": 8,
+    "receiver_awgn": 15,
+    "calibration_ripple": 9
+  },
+  "models": [
+    "matched_rect91_frequency",
+    "matched_rect91_rect_ifft"
+  ],
+  "folds": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "checkpoint_seeds": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76
+  ],
+  "awgn_seed_rows": 18000,
+  "calibration_coefficient_rows": 36,
+  "calibration_response_rows": 1638,
+  "calibration_max_reproduction_error": 7.105427357601002e-15,
+  "measurement_equation": "y_p(f)=H_p(f) E_p(f) exp(j phi0) exp(-j 4 pi f DeltaR/c)+n_p(f)",
+  "snr_definition": "SNR=10log10(Ps/Pn), Ps=(1/(2N))*sum_{p,n}|signal_p[n]|^2, with independent proper complex AWGN whose expected per-complex-sample power is Pn; real and imaginary variances are Pn/2.",
+  "range_definition": "DeltaR is monostatic radial range-reference error; exp(-j 4 pi f DeltaR/c) is the two-way phase ramp.",
+  "calibration_definition": "Each draw uses a session-fixed, sample-independent smooth residual H_p(f), independently realized for theta/phi receive channels. Gain and phase ripples have zero fitted constant/linear component and the stated peak absolute bounds.",
+  "session_definition": "A calibration session is one H_p(f) keyed by condition, draw, and receive channel. It is sample-independent and reused across all objects, folds, Frequency/rect-IFFT arms, and seven checkpoint seeds. Theta and phi responses are independent sessions.",
+  "rng_definition": "stable_seed joins key parts with '|', takes SHA-256, interprets the first eight digest bytes as an unsigned little-endian 64-bit integer, and seeds NumPy default_rng (PCG64). There is no single global stress seed.",
+  "calibration_function": "r(u)=sin(2piu+a1)+0.55sin(4piu+a2)+0.25sin(6piu+a3); ai iid U(-pi,pi). The least-squares degree-1 affine component beta0+beta1*u is removed on 91 points, the residual is divided by max absolute value, and scaled to the stated peak gain/phase bound. H_p(f)=10^(g_p(f)/20) exp(j*pi*psi_p(f)/180).",
+  "shared_draw_audit": {
+    "status": "pass",
+    "awgn_key": "receiver-awgn | condition | realization | sample_id; excludes model tag, representation, fold, and checkpoint seed",
+    "calibration_key": "cal-{gain|phase} | condition | realization | receive channel; fixed across samples, folds, representations, and checkpoint seeds",
+    "same_split_order_across_arms_and_seeds": true,
+    "measurement_domain_before_view": true
+  },
+  "post_generation_audit": {
+    "status": "pass",
+    "clean_replays": 56,
+    "clean_classification_mismatches": 0,
+    "stress_checkpoints": 56,
+    "object_metrics_rows": 11760,
+    "direction_count_per_object_seed_realization": 60,
+    "held_object_count": 20,
+    "object_curve_rows": 720,
+    "curve_summary_rows": 36,
+    "paired_delta_rows": 18,
+    "calibration_response_rows": 1638,
+    "all_generated_output_hashes_match": true
+  }
+}

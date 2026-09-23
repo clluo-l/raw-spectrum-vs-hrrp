@@ -1,0 +1,553 @@
+{
+  "status": "ok",
+  "failures": [],
+  "duplicate_index_paths": [],
+  "missing_index_paths": [],
+  "missing_dataset_files": [],
+  "split_counts": {
+    "id_train": {
+      "samples": 800,
+      "objects": 20,
+      "samples_per_object": [
+        40
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "id_dev": {
+      "samples": 200,
+      "objects": 20,
+      "samples_per_object": [
+        10
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "id_test": {
+      "samples": 200,
+      "objects": 20,
+      "samples_per_object": [
+        10
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer1_train": {
+      "samples": 750,
+      "objects": 15,
+      "samples_per_object": [
+        50
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer1_dev": {
+      "samples": 150,
+      "objects": 15,
+      "samples_per_object": [
+        10
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer1_test": {
+      "samples": 300,
+      "objects": 5,
+      "samples_per_object": [
+        60
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer2_train": {
+      "samples": 750,
+      "objects": 15,
+      "samples_per_object": [
+        50
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer2_dev": {
+      "samples": 150,
+      "objects": 15,
+      "samples_per_object": [
+        10
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer2_test": {
+      "samples": 300,
+      "objects": 5,
+      "samples_per_object": [
+        60
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer3_train": {
+      "samples": 750,
+      "objects": 15,
+      "samples_per_object": [
+        50
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer3_dev": {
+      "samples": 150,
+      "objects": 15,
+      "samples_per_object": [
+        10
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer3_test": {
+      "samples": 300,
+      "objects": 5,
+      "samples_per_object": [
+        60
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer4_train": {
+      "samples": 750,
+      "objects": 15,
+      "samples_per_object": [
+        50
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer4_dev": {
+      "samples": 150,
+      "objects": 15,
+      "samples_per_object": [
+        10
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    },
+    "outer4_test": {
+      "samples": 300,
+      "objects": 5,
+      "samples_per_object": [
+        60
+      ],
+      "collective_unique_directions": 60,
+      "polar_samples": 0
+    }
+  },
+  "id": {
+    "object_disjoint": false,
+    "sample_overlap": {
+      "train_dev": 0,
+      "train_test": 0,
+      "dev_test": 0
+    },
+    "objects_shared_by_design": [
+      "b7c1",
+      "b7fd",
+      "b80b",
+      "b812",
+      "b827",
+      "b871",
+      "b8ed",
+      "b905",
+      "b943",
+      "b974",
+      "b979",
+      "b97b",
+      "b9e6",
+      "ba0f",
+      "baa9",
+      "bb26",
+      "bb7c",
+      "bb7d",
+      "bbc6",
+      "bc2c"
+    ],
+    "per_object_direction_counts": {
+      "b7c1": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b7fd": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b80b": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b812": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b827": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b871": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b8ed": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b905": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b943": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b974": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b979": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b97b": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "b9e6": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "ba0f": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "baa9": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "bb26": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "bb7c": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "bb7d": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "bbc6": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      },
+      "bc2c": {
+        "train": 40,
+        "dev": 10,
+        "test": 10,
+        "train_dev_test_union": 60
+      }
+    },
+    "important_scope": "ID test has 10 directions per object, not all 60; the disjoint train/dev/test union is all 60 directions per object, and each ID split collectively covers all 60 classes."
+  },
+  "outer": {
+    "object_disjoint": true,
+    "folds": {
+      "1": {
+        "sample_overlap": {
+          "train_dev": 0,
+          "train_test": 0,
+          "dev_test": 0
+        },
+        "test_object_overlap": {
+          "train_test": [],
+          "dev_test": []
+        },
+        "train_objects": [
+          "b7c1",
+          "b7fd",
+          "b80b",
+          "b812",
+          "b8ed",
+          "b943",
+          "b974",
+          "b979",
+          "b97b",
+          "b9e6",
+          "ba0f",
+          "baa9",
+          "bb26",
+          "bb7c",
+          "bc2c"
+        ],
+        "held_objects": [
+          "b827",
+          "b871",
+          "b905",
+          "bb7d",
+          "bbc6"
+        ],
+        "held_object_details": {
+          "b827": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "b871": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "b905": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "bb7d": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "bbc6": {
+            "samples": 60,
+            "unique_directions": 60
+          }
+        }
+      },
+      "2": {
+        "sample_overlap": {
+          "train_dev": 0,
+          "train_test": 0,
+          "dev_test": 0
+        },
+        "test_object_overlap": {
+          "train_test": [],
+          "dev_test": []
+        },
+        "train_objects": [
+          "b7fd",
+          "b812",
+          "b827",
+          "b871",
+          "b8ed",
+          "b905",
+          "b943",
+          "b974",
+          "b979",
+          "b97b",
+          "baa9",
+          "bb26",
+          "bb7d",
+          "bbc6",
+          "bc2c"
+        ],
+        "held_objects": [
+          "b7c1",
+          "b80b",
+          "b9e6",
+          "ba0f",
+          "bb7c"
+        ],
+        "held_object_details": {
+          "b7c1": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "b80b": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "b9e6": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "ba0f": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "bb7c": {
+            "samples": 60,
+            "unique_directions": 60
+          }
+        }
+      },
+      "3": {
+        "sample_overlap": {
+          "train_dev": 0,
+          "train_test": 0,
+          "dev_test": 0
+        },
+        "test_object_overlap": {
+          "train_test": [],
+          "dev_test": []
+        },
+        "train_objects": [
+          "b7c1",
+          "b7fd",
+          "b80b",
+          "b827",
+          "b871",
+          "b8ed",
+          "b905",
+          "b979",
+          "b9e6",
+          "ba0f",
+          "baa9",
+          "bb26",
+          "bb7c",
+          "bb7d",
+          "bbc6"
+        ],
+        "held_objects": [
+          "b812",
+          "b943",
+          "b974",
+          "b97b",
+          "bc2c"
+        ],
+        "held_object_details": {
+          "b812": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "b943": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "b974": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "b97b": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "bc2c": {
+            "samples": 60,
+            "unique_directions": 60
+          }
+        }
+      },
+      "4": {
+        "sample_overlap": {
+          "train_dev": 0,
+          "train_test": 0,
+          "dev_test": 0
+        },
+        "test_object_overlap": {
+          "train_test": [],
+          "dev_test": []
+        },
+        "train_objects": [
+          "b7c1",
+          "b80b",
+          "b812",
+          "b827",
+          "b871",
+          "b905",
+          "b943",
+          "b974",
+          "b97b",
+          "b9e6",
+          "ba0f",
+          "bb7c",
+          "bb7d",
+          "bbc6",
+          "bc2c"
+        ],
+        "held_objects": [
+          "b7fd",
+          "b8ed",
+          "b979",
+          "baa9",
+          "bb26"
+        ],
+        "held_object_details": {
+          "b7fd": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "b8ed": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "b979": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "baa9": {
+            "samples": 60,
+            "unique_directions": 60
+          },
+          "bb26": {
+            "samples": 60,
+            "unique_directions": 60
+          }
+        }
+      }
+    },
+    "held_object_occurrences": {
+      "b7c1": 1,
+      "b7fd": 1,
+      "b80b": 1,
+      "b812": 1,
+      "b827": 1,
+      "b871": 1,
+      "b8ed": 1,
+      "b905": 1,
+      "b943": 1,
+      "b974": 1,
+      "b979": 1,
+      "b97b": 1,
+      "b9e6": 1,
+      "ba0f": 1,
+      "baa9": 1,
+      "bb26": 1,
+      "bb7c": 1,
+      "bb7d": 1,
+      "bbc6": 1,
+      "bc2c": 1
+    },
+    "important_scope": "Every held object is evaluated at all 60 nonpolar directions exactly once."
+  }
+}

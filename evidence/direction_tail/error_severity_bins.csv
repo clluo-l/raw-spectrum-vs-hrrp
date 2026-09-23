@@ -1,0 +1,29 @@
+arm,arm_display,bin,count,rate,definition
+frequency,Frequency MLP,exact,5420,0.6452380952380953,GCE <= 0.001 deg
+frequency,Frequency MLP,30deg_bin,523,0.06226190476190476,0.001 < GCE <= 45 deg
+frequency,Frequency MLP,60deg_bin,569,0.06773809523809524,45 < GCE <= 75 deg
+frequency,Frequency MLP,90deg_bin,332,0.039523809523809524,75 < GCE <= 105 deg
+frequency,Frequency MLP,120deg_bin,689,0.08202380952380953,105 < GCE <= 135 deg
+frequency,Frequency MLP,150deg_bin,260,0.030952380952380953,135 < GCE < 165 deg
+frequency,Frequency MLP,180deg_bin,607,0.07226190476190476,GCE >= 165 deg
+rect_ifft,Rect-IFFT MLP,exact,5371,0.6394047619047619,GCE <= 0.001 deg
+rect_ifft,Rect-IFFT MLP,30deg_bin,551,0.0655952380952381,0.001 < GCE <= 45 deg
+rect_ifft,Rect-IFFT MLP,60deg_bin,558,0.06642857142857143,45 < GCE <= 75 deg
+rect_ifft,Rect-IFFT MLP,90deg_bin,364,0.043333333333333335,75 < GCE <= 105 deg
+rect_ifft,Rect-IFFT MLP,120deg_bin,682,0.08119047619047619,105 < GCE <= 135 deg
+rect_ifft,Rect-IFFT MLP,150deg_bin,277,0.03297619047619048,135 < GCE < 165 deg
+rect_ifft,Rect-IFFT MLP,180deg_bin,597,0.07107142857142858,GCE >= 165 deg
+hann_ifft,Hann-IFFT MLP,exact,4945,0.5886904761904762,GCE <= 0.001 deg
+hann_ifft,Hann-IFFT MLP,30deg_bin,576,0.06857142857142857,0.001 < GCE <= 45 deg
+hann_ifft,Hann-IFFT MLP,60deg_bin,659,0.07845238095238095,45 < GCE <= 75 deg
+hann_ifft,Hann-IFFT MLP,90deg_bin,497,0.059166666666666666,75 < GCE <= 105 deg
+hann_ifft,Hann-IFFT MLP,120deg_bin,756,0.09,105 < GCE <= 135 deg
+hann_ifft,Hann-IFFT MLP,150deg_bin,303,0.036071428571428574,135 < GCE < 165 deg
+hann_ifft,Hann-IFFT MLP,180deg_bin,664,0.07904761904761905,GCE >= 165 deg
+strong_1nn,Deterministic 6ch 1-NN,exact,846,0.705,GCE <= 0.001 deg
+strong_1nn,Deterministic 6ch 1-NN,30deg_bin,81,0.0675,0.001 < GCE <= 45 deg
+strong_1nn,Deterministic 6ch 1-NN,60deg_bin,58,0.04833333333333333,45 < GCE <= 75 deg
+strong_1nn,Deterministic 6ch 1-NN,90deg_bin,59,0.049166666666666664,75 < GCE <= 105 deg
+strong_1nn,Deterministic 6ch 1-NN,120deg_bin,88,0.07333333333333333,105 < GCE <= 135 deg
+strong_1nn,Deterministic 6ch 1-NN,150deg_bin,51,0.0425,135 < GCE < 165 deg
+strong_1nn,Deterministic 6ch 1-NN,180deg_bin,17,0.014166666666666666,GCE >= 165 deg

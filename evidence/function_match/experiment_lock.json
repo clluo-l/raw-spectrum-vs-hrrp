@@ -1,0 +1,66 @@
+{
+  "status": "locked",
+  "lock_version": "20260828_function_matched_rect91_conjugation_v1",
+  "purpose": "Analytic first-layer conjugation audit for the 35 strict Frequency global-MLP checkpoints; no training or checkpoint mutation.",
+  "protocol": "tgrs_nested_nonpolar_v2",
+  "base_strict_matrix": {
+    "lock_path": "code/review_protocol/matched_rect91_global_mlp_lock.json",
+    "lock_sha256": "82e865994b979517b1c282791126cedc6770c29c5f28114dd73b3b469f530c67",
+    "frequency_checkpoint_count": 35,
+    "protocols": ["id", "outer1", "outer2", "outer3", "outer4"],
+    "seeds": [70, 71, 72, 73, 74, 75, 76],
+    "expected_sample_checkpoint_pairs": 9800
+  },
+  "q_contract": {
+    "symbol": "Q_frequency_to_rect",
+    "input_relation": "x_rect = Q_frequency_to_rect x_frequency",
+    "complex_transform": "fftshift(ifft(x, n=91, norm='ortho'))",
+    "channel_order": ["Re(Etheta)", "Im(Etheta)", "Re(Ephi)", "Im(Ephi)"],
+    "components": 2,
+    "length": 91,
+    "real_shape": [364, 364],
+    "dtype": "float64",
+    "expected_sha256": "00e57a802e898d270b51d36a98d3690ae05292f5729fc52d803bf2cc7d809018",
+    "inverse": "Q.T",
+    "orthogonality": "Q.T Q = I"
+  },
+  "model_contract": {
+    "model": "freq_mlp",
+    "class": "FrequencySequenceFactorizedDirectionClassifier",
+    "encoder": "FlattenMLPSignalEncoder1D",
+    "input_channels": 4,
+    "expected_length": 91,
+    "theta_classes": 5,
+    "phi_classes": 12,
+    "expected_trainable_parameters": 3022993,
+    "first_weight_key": "encoder.network.0.weight",
+    "first_weight_shape": [1024, 364],
+    "conjugation": "W_rect = W_frequency Q^{-1} = W_frequency Q.T",
+    "unchanged": "first-layer bias and every subsequent tensor"
+  },
+  "theory_guardrail": {
+    "same_numerical_initialization": "The same numerical W in two bases is not function matched because W Q x generally differs from W x.",
+    "function_matched_initialization": "Conjugating only the first layer produces the identical function in exact arithmetic.",
+    "optimizer_scope": "The construction proves hypothesis-class closure and function matching; it does not make coordinate-wise AdamW dynamics rotation invariant."
+  },
+  "numeric_tolerances": {
+    "q_max_abs_qtq_minus_i": 5e-13,
+    "input_max_abs": 5e-6,
+    "input_relative_inf": 5e-5,
+    "first_weight_inverse_max_abs": 1e-5,
+    "logit_max_abs": 5e-4,
+    "logit_relative_inf": 1e-4,
+    "probability_max_abs": 5e-5,
+    "posterior_unit_xyz_max_abs": 5e-4,
+    "hard_prediction_mismatches": 0,
+    "policy": "Predeclared float32 evaluation bounds; report observed absolute and relative maxima without threshold retuning."
+  },
+  "outputs": {
+    "matrix": "Q_frequency_to_rect.npy",
+    "summary": "summary.json",
+    "per_checkpoint": "runs.csv",
+    "per_sample": "samples.csv",
+    "provenance": "provenance.json"
+  },
+  "mutation_policy": "Read checkpoints only. Conjugated checkpoints are not persisted unless an explicit output root is supplied."
+}
