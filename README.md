@@ -2,9 +2,8 @@
 
 Code and evidence for the paper
 
-> **Raw Spectrum Beats Processed HRRP for Neural Radar Look-Direction Inference
+> **Raw Spectrum vs. Processed HRRP for Neural Radar Look-Direction Inference
 > from a Single Coherent Sweep**
-> (IEEE Transactions on Aerospace and Electronic Systems, 2026)
 
 The name mirrors the paper's central matched comparison — the raw complex
 frequency spectrum versus the processed rectangular-IFFT high-resolution range
@@ -22,7 +21,9 @@ evidence/             frozen evidence produced by the audited runs
   dataset/            centered-HRRP dataset audit (per-object IFFT centering checks)
   deterministic/      deterministic cosine-1NN baseline and invariance controls
   direction_tail/     held-mesh direction-resolved tails, confusion, paired effects
-  fig3_predictions/   per-seed prediction rows behind the main-paper object-effects figure
+  fig3_predictions/   legacy directory name kept from an earlier draft; these
+                      per-seed prediction rows back main-paper Fig. 4 (the
+                      matched object-effects figure)
   formal_stress/      measurement-domain stress suite (AWGN / phase / range / calibration)
   function_match/     conjugation audit between the two bases (35 checkpoints)
   hann/               one-factor Hann-window secondary control
