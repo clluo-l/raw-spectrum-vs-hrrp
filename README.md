@@ -56,7 +56,8 @@ their scientific values are represented by the derived CSV/JSON files.
    rows (`code/evaluate_hrrp_class_predictions.py`,
    `code/audit_tgrs_matched_rect91_mlp.py`).
 3. Reproduce the table/figure inputs
-   (`code/make_fig3_matched_object_effects.py`,
+   (`code/make_fig3_matched_object_effects.py` — legacy script name,
+   corresponding to Fig. 4 in the current manuscript;
    `code/make_hrrp_dataset_overview_figure.py`, ...).
 4. Check the rectangular-IFFT construction on
    `evidence/review_data/tgrs_complex_response_subset.csv`
