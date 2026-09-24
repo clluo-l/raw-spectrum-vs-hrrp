@@ -50,7 +50,8 @@
         "paper/figures/figS2_direction_confusion_60x60.png",
         "paper/figures/figS3_tail_concentration.png"
       ],
-      "status": "pass"
+      "status": "pass",
+      "note": "Referenced asset names are legacy internal filenames from an earlier draft; in the current manuscript fig3_matched_object_effects maps to Fig. 4 and figS1_measurement_stress_curves maps to Fig. 5 of the main paper. Asset contents and all audited numbers are unchanged."
     },
     "paper_numeric_anchors": {
       "anchor_count": 10,

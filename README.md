@@ -9,8 +9,9 @@ The name mirrors the paper's central matched comparison — the raw complex
 frequency spectrum versus the processed rectangular-IFFT high-resolution range
 profile (HRRP) — with the verdict left to the data. The repository lets you
 independently check the numbers reported in the paper:
-the frozen train/development/test splits, the sample-level prediction rows behind
-every aggregate, the table/figure inputs, and the regeneration code. It does not
+the frozen train/development/test splits, selected sample-level prediction
+rows supporting the reported aggregates, the table/figure inputs, and the
+regeneration code. It does not
 attempt end-to-end retraining or full-wave re-simulation.
 
 ## What is inside
